@@ -6,6 +6,9 @@
 	==========================
 	
 	Guthan_Shawnasy :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=5523
+	Ania_Klephia :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=2768
+	Rushka_Deklamoor :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=5806
+	Joryd_Longarms :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=1147
 -->
 
 <?xml version="1.0" encoding="iso-8859-1"?>
@@ -132,43 +135,36 @@
     <field name="merchantid">1003</field>
     <field name="id">1014</field>
     <field name="name">Sinon_Loarpe</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">1004</field>
     <field name="id">1015</field>
     <field name="name">Gende_Reldari</field>
-    <field name="item_name">Order of Three</field>
   </row>
   <row>
     <field name="merchantid">1005</field>
     <field name="id">1016</field>
     <field name="name">Headara_Ponido</field>
-    <field name="item_name">Order of Three</field>
   </row>
   <row>
     <field name="merchantid">1006</field>
     <field name="id">1017</field>
     <field name="name">Ingaria_Dinego</field>
-    <field name="item_name">Order of Three</field>
   </row>
   <row>
     <field name="merchantid">1007</field>
     <field name="id">1018</field>
     <field name="name">Tsuden_Korinte</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">1008</field>
     <field name="id">1019</field>
     <field name="name">Moreo_O`Meek</field>
-    <field name="item_name">Order of Three</field>
   </row>
   <row>
     <field name="merchantid">1009</field>
     <field name="id">1020</field>
     <field name="name">Isobelle_Losiwoo</field>
-    <field name="item_name">Order of Three</field>
   </row>
   <row>
     <field name="merchantid">1010</field>
@@ -257,7 +253,6 @@
     <field name="merchantid">1014</field>
     <field name="id">1032</field>
     <field name="name">Ren_Pinemyer</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">1052</field>
@@ -1107,7 +1102,6 @@
     <field name="merchantid">2022</field>
     <field name="id">2036</field>
     <field name="name">Nerissa_Clothspinner</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">2000</field>
@@ -1279,13 +1273,11 @@
     <field name="merchantid">2009</field>
     <field name="id">2064</field>
     <field name="name">Rodgar_the_Tall</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">2010</field>
     <field name="id">2065</field>
     <field name="name">Gerault_Takenmaul</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">2011</field>
@@ -7542,7 +7534,6 @@
     <field name="merchantid">23015</field>
     <field name="id">23017</field>
     <field name="name">Sparlus_Penfold</field>
-    <field name="item_name">Merchants of Erudin</field>
   </row>
   <row>
     <field name="merchantid">23016</field>
@@ -7844,7 +7835,6 @@
     <field name="merchantid">224133</field>
     <field name="id">23065</field>
     <field name="name">Agryn_Moonfield</field>
-    <field name="item_name">Merchants of Erudin</field>
   </row>
   <row>
     <field name="merchantid">24000</field>
@@ -7969,7 +7959,6 @@
     <field name="merchantid">24007</field>
     <field name="id">24021</field>
     <field name="name">Raine_Beteria</field>
-    <field name="item_name">Merchants of Erudin</field>
   </row>
   <row>
     <field name="merchantid">24038</field>
@@ -8013,7 +8002,6 @@
     <field name="merchantid">24009</field>
     <field name="id">24024</field>
     <field name="name">Selint_Chency</field>
-    <field name="item_name">Merchants of Erudin</field>
   </row>
   <row>
     <field name="merchantid">24010</field>
@@ -8237,7 +8225,6 @@
     <field name="merchantid">24021</field>
     <field name="id">24060</field>
     <field name="name">Palus_Weaponsmith</field>
-    <field name="item_name">Merchants of Erudin</field>
   </row>
   <row>
     <field name="merchantid">24022</field>
@@ -8519,7 +8506,6 @@
     <field name="merchantid">182160</field>
     <field name="id">24096</field>
     <field name="name">Valani_Gadriek</field>
-    <field name="item_name">Quill</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -9327,7 +9313,6 @@
     <field name="merchantid">345096</field>
     <field name="id">29046</field>
     <field name="name">Guthan_Shawnasy</field>
-    <field name="item_name">Large Steel Kilt</field>
   </row>
   <row>
     <field name="merchantid">345097</field>
@@ -10254,7 +10239,6 @@
     <field name="merchantid">40000</field>
     <field name="id">40009</field>
     <field name="name">Ootok</field>
-    <field name="item_name">Grobb Merchants</field>
   </row>
   <row>
     <field name="merchantid">40001</field>
@@ -12462,9 +12446,6 @@
     <field name="merchantid">224132</field>
     <field name="id">45048</field>
     <field name="name">Fellweni_the_Kraven</field>
-    <field name="item_name">Bloodsabers</field>
-    <field name="item_name">Corrupt Qeynos Guards</field>
-    <field name="item_name">Opal Dark Briar</field>
   </row>
   <row>
     <field name="merchantid">45006</field>
@@ -13100,8 +13081,6 @@
     <field name="merchantid">49014</field>
     <field name="id">49049</field>
     <field name="name">Clurg</field>
-    <field name="item_name">Dimlore Stormhammer</field>
-    <field name="item_name">King Kazon Stormhammer</field>
   </row>
   <row>
     <field name="merchantid">345081</field>
@@ -13325,8 +13304,6 @@
     <field name="id">49067</field>
     <field name="name">Lopuka</field>
     <field name="item_name">Clurg</field>
-    <field name="item_name">Merchants of Ogguk</field>
-    <field name="item_name">Oggok Guards</field>
   </row>
   <row>
     <field name="merchantid">49029</field>
