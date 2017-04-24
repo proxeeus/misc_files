@@ -1,3 +1,13 @@
+<!--
+	This is a full, raw parse of the P99 merchants. Item IDs will have to be added via EQEmu Toolkit, before mass-importing this data
+	into the database.
+	
+	Merchants needing a fixup:
+	==========================
+	
+	Guthan_Shawnasy :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=5523
+-->
+
 <?xml version="1.0" encoding="iso-8859-1"?>
 <table_data name="Tableau inconnu">
   <row>
