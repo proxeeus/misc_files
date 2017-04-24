@@ -1,0 +1,109 @@
+<?xml version="1.0">
+<server>
+<world>
+<!-- Set the shortname to ONE word. The longname is what shows up on server list -->
+<shortname>proxeq</shortname>
+<longname>ProxEQ</longname>
+
+<!-- DO NOT EDIT ANY LINES BETWEEN HERE AND THE DATABASE SECTION -->
+<!--  -->
+<!-- -->
+<address>82.239.3.68</address>
+<localaddress>192.168.0.13</localaddress> 
+<!-- Loginserver information. DO NOT EDIT -->
+<loginserver>
+	<host>login.eqemulator.net</host>
+	<port>5998</port>
+	<account></account>
+	<password></password>
+	<legacy>1</legacy>
+</loginserver>
+
+<!-- Sets the ip/port for the tcp connections. DO NOT EDIT -->
+<!-- <tcp ip="127.0.0.1" port="9000" telnet="disable"/> -->
+<tcp ip="127.0.0.1" port="9000" telnet="enable"/>
+
+
+<!-- Sets the shared key used by zone/launcher to connect to world -->
+<key>somelongrandomstring12345asdfffff</key>
+
+<!-- Enable and set the port for the HTTP service. Defaults are shown -->
+<!-- <http port="9080" enabled="false" mimefile="mime.types" /> -->
+<http port="9080" enabled="true" mimefile="mime.types" />
+</world>
+
+<!-- Chatserver (channels) information. DO NOT EDIT -->
+<chatserver>
+	<!-- <host>192.168.1.x</host> -->
+	<!-- <port>7778</port> -->
+	<host></host>
+	<port>7500</port>
+</chatserver>
+
+<!-- Mailserver (in-game mail) information. DO NOT EDIT -->
+<mailserver>
+	<!-- <host>192.168.1.x</host> -->
+	<!-- <port>7778</port> -->
+	<host></host>
+	<port>7500</port>
+</mailserver>
+
+<zones>
+<!-- The defaultstatus is what status the new toons will have on your server -->
+<defaultstatus>0</defaultstatus>
+
+<!-- Sets port range for world to use to auto configure zones DO NOT EDIT RIGHT NOW-->
+<!-- <ports low="7000" high="7100"/> -->
+<ports low="7000" high="7400"/>
+</zones>
+
+<!-- Set username to root and password is your MySQL password and db to peq -->
+<database>
+	<!-- <host>127.0.0.1</host> -->
+	<!-- <port>3306</port> -->
+	<!-- <username>root</username> -->
+	<!-- <password>xxxxx</password> -->
+	<!-- <db>peq</db> -->
+   <host>127.0.0.1</host>
+   <port>3306</port>
+   <username>xxx</username>
+   <password>xxx</password>
+   <db>xxx</db>
+</database>
+
+<qsdatabase>
+	<!-- <host>127.0.0.1</host> -->
+	<!-- <port>3306</port> -->
+	<!-- <username>root</username> -->
+	<!-- <password>xxxxx</password> -->
+	<!-- <db>peq</db> -->
+   <host>127.0.0.1</host>
+   <port>3306</port>
+   <username>xxx</username>
+   <password>xxx</password>
+   <db>xxx</db>
+</qsdatabase>
+
+<!-- Launcher Configuration DO NOT EDIT-->
+<launcher>
+<!-- <logprefix>logs/zone-</logprefix> -->
+<!-- <logsuffix>.log</logsuffix> -->
+<!-- <exe>zone.exe</exe> -->
+<!-- <timers restart="10000" reterminate="10000"> -->
+<!-- <timers restart="200" reterminate="200" initial="200" interval="200"/> -->
+</launcher>
+
+<!-- File locations. DO NOT EDIT -->
+<files>
+<!-- <spells>spells_us.txt</spells> -->
+<!-- <opcodes>opcodes.conf</opcodes> -->
+<!-- <logsettings>log.ini</logsettings> -->
+<!-- <eqtime>eqtime.cfg</eqtime> -->
+</files>
+<!-- Directory locations. DO NOT EDIT -->
+<directories>
+<!-- <maps>Maps</maps> -->
+<!-- <quests>quests</quests> -->
+<!-- <plugins>plugins</plugins> -->
+</directories>
+</server>
