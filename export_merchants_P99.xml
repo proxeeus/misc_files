@@ -1,16 +1,3 @@
-<!--
-	This is a full, raw parse of the P99 merchants. Item IDs will have to be added via EQEmu Toolkit, before mass-importing this data
-	into the database.
-	
-	Merchants needing a fixup:
-	==========================
-	
-	Guthan_Shawnasy :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=5523
-	Ania_Klephia :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=2768
-	Rushka_Deklamoor :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=5806
-	Joryd_Longarms :: http://www.eqtraders.com/sources/mob_item_list.php?MobID=1147
--->
-
 <?xml version="1.0" encoding="iso-8859-1"?>
 <table_data name="Tableau inconnu">
   <row>
@@ -135,36 +122,138 @@
     <field name="merchantid">1003</field>
     <field name="id">1014</field>
     <field name="name">Sinon_Loarpe</field>
+    <field name="item_name">Spell: Banish Summoned</field>
+    <field name="item_name">Spell: Burnout III</field>
+    <field name="item_name">Spell: Conjuration: Fire</field>
+    <field name="item_name">Spell: Elemental Armor</field>
+    <field name="item_name">Spell: Greater Conjuration: Earth</field>
+    <field name="item_name">Spell: Lava Bolt</field>
+    <field name="item_name">Spell: Malaisement</field>
+    <field name="item_name">Spell: Phantom Plate</field>
+    <field name="item_name">Spell: Rain of Swords</field>
+    <field name="item_name">Spell: Shield of Lava</field>
+    <field name="item_name">Spell: Shock of Swords</field>
   </row>
   <row>
     <field name="merchantid">1004</field>
     <field name="id">1015</field>
     <field name="name">Gende_Reldari</field>
+    <field name="item_name">Spell: Barrier of Combustion</field>
+    <field name="item_name">Spell: Blaze</field>
+    <field name="item_name">Spell: Burnout II</field>
+    <field name="item_name">Spell: Cinder Bolt</field>
+    <field name="item_name">Spell: Dismiss Summoned</field>
+    <field name="item_name">Spell: Expel Summoned</field>
+    <field name="item_name">Spell: Flame Arc</field>
+    <field name="item_name">Spell: Greater Summoning: Air</field>
+    <field name="item_name">Spell: Greater Summoning: Fire</field>
+    <field name="item_name">Spell: Inferno Shield</field>
+    <field name="item_name">Spell: Lesser Conjuration: Air</field>
+    <field name="item_name">Spell: Lesser Conjuration: Fire</field>
+    <field name="item_name">Spell: Minor Conjuration: Earth</field>
+    <field name="item_name">Spell: Minor Conjuration: Water</field>
+    <field name="item_name">Spell: Phantom Chain</field>
+    <field name="item_name">Spell: Rain of Lava</field>
+    <field name="item_name">Spell: Rain of Spikes</field>
   </row>
   <row>
     <field name="merchantid">1005</field>
     <field name="id">1016</field>
     <field name="name">Headara_Ponido</field>
+    <field name="item_name">Spell: Bolt of Flame</field>
+    <field name="item_name">Spell: Elemental Shield</field>
+    <field name="item_name">Spell: Flame Flux</field>
+    <field name="item_name">Spell: Lesser Summoning: Air</field>
+    <field name="item_name">Spell: Malaise</field>
+    <field name="item_name">Spell: Minor Summoning: Water</field>
+    <field name="item_name">Spell: Phantom Leather</field>
+    <field name="item_name">Spell: Rain of Fire</field>
+    <field name="item_name">Spell: Renew Summoning</field>
+    <field name="item_name">Spell: Shield of Flame</field>
+    <field name="item_name">Spell: Shock of Flame</field>
+    <field name="item_name">Spell: Summoning: Earth</field>
   </row>
   <row>
     <field name="merchantid">1006</field>
     <field name="id">1017</field>
     <field name="name">Ingaria_Dinego</field>
+    <field name="item_name">Spell: Burnout</field>
+    <field name="item_name">Spell: Column of Fire</field>
+    <field name="item_name">Spell: Elemental: Air</field>
+    <field name="item_name">Spell: Elemental: Earth</field>
+    <field name="item_name">Spell: Elemental: Fire</field>
+    <field name="item_name">Spell: Elemental: Water</field>
+    <field name="item_name">Spell: Elementaling: Air</field>
+    <field name="item_name">Spell: Elementaling: Earth</field>
+    <field name="item_name">Spell: Elementaling: Fire</field>
+    <field name="item_name">Spell: Elementaling: Water</field>
+    <field name="item_name">Spell: Eye of Zomm</field>
+    <field name="item_name">Spell: Flame Bolt</field>
+    <field name="item_name">Spell: Rain of Blades</field>
+    <field name="item_name">Spell: Renew Elements</field>
+    <field name="item_name">Spell: Shield of Fire</field>
+    <field name="item_name">Spell: Shock of Blades</field>
+    <field name="item_name">Spell: Ward Summoned</field>
   </row>
   <row>
     <field name="merchantid">1007</field>
     <field name="id">1018</field>
     <field name="name">Tsuden_Korinte</field>
+    <field name="item_name">Spell: Burn</field>
+    <field name="item_name">Spell: Burst of Flame</field>
+    <field name="item_name">Spell: Elementalkin: Air</field>
+    <field name="item_name">Spell: Elementalkin: Earth</field>
+    <field name="item_name">Spell: Elementalkin: Fire</field>
+    <field name="item_name">Spell: Elementalkin: Water</field>
+    <field name="item_name">Spell: Fire Flux</field>
+    <field name="item_name">Spell: Flare</field>
+    <field name="item_name">Spell: Reclaim Energy</field>
+    <field name="item_name">Spell: Sense Summoned</field>
+    <field name="item_name">Spell: Summon Bandages</field>
+    <field name="item_name">Spell: Summon Dagger</field>
+    <field name="item_name">Spell: Summon Drink</field>
+    <field name="item_name">Spell: Summon Food</field>
+    <field name="item_name">Spell: Summon Wisp</field>
   </row>
   <row>
     <field name="merchantid">1008</field>
     <field name="id">1019</field>
     <field name="name">Moreo_O`Meek</field>
+    <field name="item_name">Spell: Adorning Grace</field>
+    <field name="item_name">Spell: Berserker Spirit</field>
+    <field name="item_name">Spell: Brilliance</field>
+    <field name="item_name">Spell: Dazzle</field>
+    <field name="item_name">Spell: Discordant Mind</field>
+    <field name="item_name">Spell: Gasping Embrace</field>
+    <field name="item_name">Spell: Group Resist Magic</field>
+    <field name="item_name">Spell: Incapacitate</field>
+    <field name="item_name">Spell: Rune IV</field>
+    <field name="item_name">Spell: Shadow</field>
+    <field name="item_name">Spell: Swift like the Wind</field>
+    <field name="item_name">Spell: Weakness</field>
   </row>
   <row>
     <field name="merchantid">1009</field>
     <field name="id">1020</field>
     <field name="name">Isobelle_Losiwoo</field>
+    <field name="item_name">Spell: Anarchy</field>
+    <field name="item_name">Spell: Augmentation</field>
+    <field name="item_name">Spell: Cajoling Whispers</field>
+    <field name="item_name">Spell: Cast Sight</field>
+    <field name="item_name">Spell: Celerity</field>
+    <field name="item_name">Spell: Clarity</field>
+    <field name="item_name">Spell: Curse of the Simple Mind</field>
+    <field name="item_name">Spell: Dyn`s Dizzying Draught</field>
+    <field name="item_name">Spell: Entrance</field>
+    <field name="item_name">Spell: Insight</field>
+    <field name="item_name">Spell: Invoke Fear</field>
+    <field name="item_name">Spell: Listless Power</field>
+    <field name="item_name">Spell: Obscure</field>
+    <field name="item_name">Spell: Pacify</field>
+    <field name="item_name">Spell: Rampage</field>
+    <field name="item_name">Spell: Rune III</field>
+    <field name="item_name">Spell: Shade</field>
+    <field name="item_name">Spell: Suffocate</field>
   </row>
   <row>
     <field name="merchantid">1010</field>
@@ -668,21 +757,7 @@
     <field name="merchantid">1033</field>
     <field name="id">1104</field>
     <field name="name">Tasya_Huntlan</field>
-    <field name="item_name">Ale</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Brandy</field>
-    <field name="item_name">Capt. Orlin's Spiced Ale</field>
-    <field name="item_name">Cask</field>
-    <field name="item_name">Fish Wine</field>
-    <field name="item_name">Grapes</field>
-    <field name="item_name">Honey Mead</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Packet of Kiola Sap</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Short Ale</field>
-    <field name="item_name">Short Beer</field>
-    <field name="item_name">Shotglass</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">1034</field>
@@ -1050,17 +1125,7 @@
     <field name="merchantid">1049</field>
     <field name="id">1155</field>
     <field name="name">Lanhern_Firepride</field>
-    <field name="item_name">Plate Gauntlets</field>
-    <field name="item_name">Plate Girdle</field>
-    <field name="item_name">Platemail Helm</field>
-    <field name="item_name">Splinted Cloak</field>
-    <field name="item_name">Steel Bracers</field>
-    <field name="item_name">Steel Breastplate</field>
-    <field name="item_name">Steel Collar</field>
-    <field name="item_name">Steel Greaves</field>
-    <field name="item_name">Steel Mask</field>
-    <field name="item_name">Steel Pauldron</field>
-    <field name="item_name">Steel Vambraces</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">1063</field>
@@ -1257,17 +1322,8 @@
     <field name="merchantid">2008</field>
     <field name="id">2063</field>
     <field name="name">Crow</field>
-    <field name="item_name">Ale</field>
-    <field name="item_name">Brandy</field>
-    <field name="item_name">Crows Special Brew</field>
-    <field name="item_name">Fish Wine</field>
-    <field name="item_name">Honey Mead</field>
-    <field name="item_name">Keg of Beer</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Short Ale</field>
-    <field name="item_name">Short Beer</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name">[1]</field>
+    <field name="item_name">Raz the Rat Misk</field>
   </row>
   <row>
     <field name="merchantid">2009</field>
@@ -1472,7 +1528,6 @@
     <field name="merchantid">2020</field>
     <field name="id">2098</field>
     <field name="name">Connie_Link</field>
-    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">2021</field>
@@ -1687,6 +1742,17 @@
     <field name="merchantid">3009</field>
     <field name="id">3039</field>
     <field name="name">Bukem_Breewood</field>
+    <field name="item_name">Spell: Bramblecoat</field>
+    <field name="item_name">Spell: Calm Animal</field>
+    <field name="item_name">Spell: Careless Lightning</field>
+    <field name="item_name">Spell: Ensnaring Roots</field>
+    <field name="item_name">Spell: Healing</field>
+    <field name="item_name">Spell: Immolate</field>
+    <field name="item_name">Spell: Levitate</field>
+    <field name="item_name">Spell: Shield of Brambles</field>
+    <field name="item_name">Spell: Calm Animal</field>
+    <field name="item_name">Spell: Skin like Steel</field>
+    <field name="item_name">Spell: Superior Camouflage</field>
   </row>
   <row>
     <field name="merchantid">3011</field>
@@ -2225,6 +2291,10 @@
     <field name="merchantid">182127</field>
     <field name="id">8001</field>
     <field name="name">Groflah_Steadirt</field>
+    <field name="item_name">Coalition of Tradefolk</field>
+    <field name="item_name">Coalition of TradeFolk III</field>
+    <field name="item_name">Knights of Truth</field>
+    <field name="item_name">Merchants of Qeynos</field>
   </row>
   <row>
     <field name="merchantid">8013</field>
@@ -2301,6 +2371,11 @@
     <field name="merchantid">8039</field>
     <field name="id">8020</field>
     <field name="name">Egasia_Reenix</field>
+    <field name="item_name">Spell: Expel Summoned</field>
+    <field name="item_name">Spell: Immobilize</field>
+    <field name="item_name">Spell: Shield of Words</field>
+    <field name="item_name">Spell: Sound of Force</field>
+    <field name="item_name">Spell: Word Divine</field>
   </row>
   <row>
     <field name="merchantid">8002</field>
@@ -2439,24 +2514,7 @@
     <field name="merchantid">8008</field>
     <field name="id">8029</field>
     <field name="name">Aimie_Moonspin</field>
-    <field name="item_name">Amber</field>
-    <field name="item_name">Bloodstone</field>
-    <field name="item_name">Carnelian</field>
-    <field name="item_name">Cat's Eye Agate</field>
-    <field name="item_name">Emerald</field>
-    <field name="item_name">Hematite</field>
-    <field name="item_name">Jade</field>
-    <field name="item_name">Jasper</field>
-    <field name="item_name">Lapis Lazuli</field>
-    <field name="item_name">Malachite</field>
-    <field name="item_name">Onyx</field>
-    <field name="item_name">Opal</field>
-    <field name="item_name">Pearl</field>
-    <field name="item_name">Peridot</field>
-    <field name="item_name">Ruby</field>
-    <field name="item_name">Star Rose Quartz</field>
-    <field name="item_name">Topaz</field>
-    <field name="item_name">Turquoise</field>
+    <field name="item_name">Greedy Merchant</field>
   </row>
   <row>
     <field name="merchantid">8009</field>
@@ -2934,28 +2992,12 @@
     <field name="merchantid">8034</field>
     <field name="id">8103</field>
     <field name="name">Falia_Frikniller</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">Metal Disk</field>
-    <field name="item_name">Small Cloth Cap</field>
-    <field name="item_name">Small Cloth Cape</field>
-    <field name="item_name">Small Cloth Choker</field>
-    <field name="item_name">Small Cloth Cord</field>
-    <field name="item_name">Small Cloth Gloves</field>
-    <field name="item_name">Small Cloth Pants</field>
-    <field name="item_name">Small Cloth Sandals</field>
-    <field name="item_name">Small Cloth Shawl</field>
-    <field name="item_name">Small Cloth Shirt</field>
-    <field name="item_name">Small Cloth Sleeves</field>
-    <field name="item_name">Small Cloth Veil</field>
-    <field name="item_name">Small Sewing Kit</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">8035</field>
     <field name="id">8105</field>
     <field name="name">Jade</field>
-    <field name="item_name">a crystal crawler</field>
-    <field name="item_name">a Ry`Gorr miner</field>
-    <field name="item_name">a stalag terror</field>
   </row>
   <row>
     <field name="merchantid">8036</field>
@@ -3042,19 +3084,8 @@
     <field name="merchantid">9000</field>
     <field name="id">9011</field>
     <field name="name">Linadian</field>
-    <field name="item_name">Cloth Cap</field>
-    <field name="item_name">Cloth Cape</field>
-    <field name="item_name">Cloth Choker</field>
-    <field name="item_name">Cloth Cord</field>
-    <field name="item_name">Cloth Gloves</field>
-    <field name="item_name">Cloth Pants</field>
-    <field name="item_name">Cloth Shawl</field>
-    <field name="item_name">Cloth Shirt</field>
-    <field name="item_name">Cloth Sleeves</field>
-    <field name="item_name">Cloth Veil</field>
-    <field name="item_name">Cloth Wristband</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">Small Sewing Kit</field>
+    <field name="item_name">Greater Faydark</field>
+    <field name="item_name">Orc Vest</field>
   </row>
   <row>
     <field name="merchantid">9001</field>
@@ -3417,22 +3448,13 @@
     <field name="merchantid">9021</field>
     <field name="id">9066</field>
     <field name="name">Lysa_Truegreen</field>
-    <field name="item_name">Bat Fur</field>
-    <field name="item_name">Bat Wing</field>
-    <field name="item_name">Peridot</field>
-    <field name="item_name">Star Rose Quartz</field>
-    <field name="item_name">Tiny Dagger</field>
+    <field name="item_name">Opal Darkbriar</field>
   </row>
   <row>
     <field name="merchantid">9022</field>
     <field name="id">9070</field>
     <field name="name">Zasrin_Blueflame</field>
-    <field name="item_name">Amber</field>
-    <field name="item_name">Bat Wing</field>
-    <field name="item_name">Bloodstone</field>
-    <field name="item_name">Jasper</field>
-    <field name="item_name">Lapis Lazuli</field>
-    <field name="item_name">Peridot</field>
+    <field name="item_name">Opal Darkbriar</field>
   </row>
   <row>
     <field name="merchantid">9023</field>
@@ -4120,26 +4142,13 @@
     <field name="merchantid">10005</field>
     <field name="id">10061</field>
     <field name="name">Jaleel_Hoglomp</field>
-    <field name="item_name">Ale</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Cask</field>
-    <field name="item_name">Freeport Stout</field>
-    <field name="item_name">Honey Mead</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Short Ale</field>
-    <field name="item_name">Short Beer</field>
+    <field name="item_name">Grub n Grog Tavern</field>
   </row>
   <row>
     <field name="merchantid">10006</field>
     <field name="id">10062</field>
     <field name="name">Winda_Lylil</field>
-    <field name="item_name">Bottle of Kalish</field>
-    <field name="item_name">Fishcakes</field>
-    <field name="item_name">Iron Ration</field>
-    <field name="item_name">Loaf of Bread</field>
-    <field name="item_name">Meat Pie</field>
-    <field name="item_name">Muffin</field>
-    <field name="item_name">Water Flask</field>
+    <field name="item_name">Grub n Grog Tavern</field>
   </row>
   <row>
     <field name="merchantid">182131</field>
@@ -4821,67 +4830,32 @@
     <field name="merchantid">182140</field>
     <field name="id">12024</field>
     <field name="name">Minya_Coldtoes</field>
-    <field name="item_name">Cloth Cap</field>
-    <field name="item_name">Cloth Cape</field>
-    <field name="item_name">Cloth Choker</field>
-    <field name="item_name">Cloth Cord</field>
-    <field name="item_name">Cloth Gloves</field>
-    <field name="item_name">Cloth Pants</field>
-    <field name="item_name">Cloth Sandals</field>
-    <field name="item_name">Cloth Shawl</field>
-    <field name="item_name">Cloth Shirt</field>
-    <field name="item_name">Cloth Sleeves</field>
-    <field name="item_name">Cloth Veil</field>
-    <field name="item_name">Cloth Wristband</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">Small Sewing Kit</field>
+    <field name="item_name">Misty Storyswapper</field>
+    <field name="item_name">Silna Weaver</field>
   </row>
   <row>
     <field name="merchantid">182146</field>
     <field name="id">12026</field>
     <field name="name">Henina_Miller</field>
-    <field name="item_name">Guards of Qeynos</field>
-    <field name="item_name">Karana Residents</field>
-    <field name="item_name">Knights of Thunder</field>
-    <field name="item_name">Priests of Life</field>
+    <field name="item_name">Grapes</field>
+    <field name="item_name">Mixing Bowl</field>
   </row>
   <row>
     <field name="merchantid">182141</field>
     <field name="id">12029</field>
     <field name="name">Cleet_Miller_Jr</field>
-    <field name="item_name">Guards of Qeynos</field>
-    <field name="item_name">Karana Residents</field>
-    <field name="item_name">Knights of Thunder</field>
-    <field name="item_name">Priests of Life</field>
   </row>
   <row>
     <field name="merchantid">12000</field>
     <field name="id">12074</field>
     <field name="name">Chrislin_Baker</field>
-    <field name="item_name">Binelen's Quick Treats</field>
-    <field name="item_name">Bottle of Milk</field>
-    <field name="item_name">Cup of Flour</field>
-    <field name="item_name">Frosting</field>
-    <field name="item_name">Garnish</field>
-    <field name="item_name">Ghumim's Classical Dishes</field>
-    <field name="item_name">Ghumim's Delights</field>
-    <field name="item_name">Jug of Sauces</field>
-    <field name="item_name">Mixxy's Delicacies Vol 1</field>
-    <field name="item_name">Mixxy's Delicacies Vol 2</field>
-    <field name="item_name">Rohand's Edibles</field>
-    <field name="item_name">Rohand's Sea Treats</field>
-    <field name="item_name">Sorin's Treats on the Go</field>
-    <field name="item_name">Spices</field>
-    <field name="item_name">Vaashar's Sweet Treats</field>
-    <field name="item_name">Vinegar</field>
-    <field name="item_name">Water Flask</field>
-    <field name="item_name">Xectia's Favored Flavors</field>
-    <field name="item_name">Xectia's Hot Pie</field>
+    <field name="item_name">Thrackin Griften</field>
   </row>
   <row>
     <field name="merchantid">12007</field>
     <field name="id">12086</field>
     <field name="name">Analya</field>
+    <field name="item_name">West Karana</field>
   </row>
   <row>
     <field name="merchantid">12008</field>
@@ -5058,28 +5032,13 @@
     <field name="merchantid">182145</field>
     <field name="id">12108</field>
     <field name="name">Cleet_Miller</field>
-    <field name="item_name">Guards of Qeynos</field>
-    <field name="item_name">Karana Residents</field>
-    <field name="item_name">Knights of Thunder</field>
-    <field name="item_name">Priests of Life</field>
   </row>
   <row>
     <field name="merchantid">12005</field>
     <field name="id">12125</field>
     <field name="name">Silna_Weaver</field>
-    <field name="item_name">Cloth Cap</field>
-    <field name="item_name">Cloth Cape</field>
-    <field name="item_name">Cloth Choker</field>
-    <field name="item_name">Cloth Cord</field>
-    <field name="item_name">Cloth Gloves</field>
-    <field name="item_name">Cloth Pants</field>
-    <field name="item_name">Cloth Sandals</field>
-    <field name="item_name">Cloth Shawl</field>
-    <field name="item_name">Cloth Shirt</field>
-    <field name="item_name">Cloth Sleeves</field>
-    <field name="item_name">Cloth Veil</field>
-    <field name="item_name">Cloth Wristband</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
+    <field name="item_name">Misty Storyswapper</field>
+    <field name="item_name">Minya Coldtoes</field>
   </row>
   <row>
     <field name="merchantid">182143</field>
@@ -5123,8 +5082,6 @@
     <field name="merchantid">13001</field>
     <field name="id">13066</field>
     <field name="name">Romi</field>
-    <field name="item_name">Arcane Scientists</field>
-    <field name="item_name">Knights of Truth</field>
   </row>
   <row>
     <field name="merchantid">13002</field>
@@ -5398,10 +5355,6 @@
     <field name="merchantid">15004</field>
     <field name="id">15067</field>
     <field name="name">Bryan</field>
-    <field name="item_name">Carson McCabe</field>
-    <field name="item_name">Coalition of Trade Folk</field>
-    <field name="item_name">Corrupt Qeynos Guards</field>
-    <field name="item_name">Freeport Militia</field>
   </row>
   <row>
     <field name="merchantid">15005</field>
@@ -5497,6 +5450,11 @@
     <field name="merchantid">19001</field>
     <field name="id">19020</field>
     <field name="name">Slim_Waterman</field>
+    <field name="item_name">Spell: Expel Summoned</field>
+    <field name="item_name">Spell: Immobilize</field>
+    <field name="item_name">Spell: Shield of Words</field>
+    <field name="item_name">Spell: Sound of Force</field>
+    <field name="item_name">Spell: Word Divine</field>
   </row>
   <row>
     <field name="merchantid">19002</field>
@@ -6191,10 +6149,6 @@
     <field name="merchantid">182150</field>
     <field name="id">19084</field>
     <field name="name">Innkeep</field>
-    <field name="item_name">DeepPockets</field>
-    <field name="item_name">Guardians of the Vale</field>
-    <field name="item_name">Mayor Gubbin</field>
-    <field name="item_name">Merchants of Rivervale</field>
   </row>
   <row>
     <field name="merchantid">19031</field>
@@ -7959,6 +7913,14 @@
     <field name="merchantid">24007</field>
     <field name="id">24021</field>
     <field name="name">Raine_Beteria</field>
+    <field name="item_name">Spell: Illusion: Air Elemental</field>
+    <field name="item_name">Spell: Illusion: Drybone</field>
+    <field name="item_name">Spell: Illusion: Earth Elemental</field>
+    <field name="item_name">Spell: Illusion: Fire Elemental</field>
+    <field name="item_name">Spell: Illusion: Skeleton</field>
+    <field name="item_name">Spell: Illusion: Spirit Wolf</field>
+    <field name="item_name">Spell: Illusion: Water Elemental</field>
+    <field name="item_name">Spell: Illusion: Werewolf</field>
   </row>
   <row>
     <field name="merchantid">24038</field>
@@ -8506,6 +8468,7 @@
     <field name="merchantid">182160</field>
     <field name="id">24096</field>
     <field name="name">Valani_Gadriek</field>
+    <field name="item_name">Quill</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -8764,45 +8727,9 @@
     <field name="merchantid">29000</field>
     <field name="id">29000</field>
     <field name="name">Dargon</field>
-    <field name="item_name">Agrimony</field>
-    <field name="item_name">Alkanet Root</field>
-    <field name="item_name">Allspice</field>
-    <field name="item_name">Benzoin</field>
-    <field name="item_name">Birthwort</field>
-    <field name="item_name">Bistort</field>
-    <field name="item_name">Blue Vervain Bulb</field>
-    <field name="item_name">Boneset</field>
-    <field name="item_name">Bugbane</field>
-    <field name="item_name">Burdock Root</field>
-    <field name="item_name">Celandine Herb</field>
-    <field name="item_name">Damiana</field>
-    <field name="item_name">Eyebright</field>
-    <field name="item_name">Fenugreek</field>
-    <field name="item_name">Feverfew</field>
-    <field name="item_name">Figwort</field>
-    <field name="item_name">Horehound</field>
-    <field name="item_name">Lucerne</field>
-    <field name="item_name">Maidenhair Fern</field>
-    <field name="item_name">Mandrake Root</field>
-    <field name="item_name">Medicine Bag</field>
-    <field name="item_name">Mercury</field>
-    <field name="item_name">Mugwart</field>
-    <field name="item_name">Mullein</field>
-    <field name="item_name">Night Shade</field>
-    <field name="item_name">Reucoat's</field>
-    <field name="item_name">Ro's Breath</field>
-    <field name="item_name">Shield of Lava</field>
-    <field name="item_name">Sage Leaf</field>
-    <field name="item_name">Sea Spirit</field>
-    <field name="item_name">Sticklewort</field>
-    <field name="item_name">Stinging Nettle</field>
-    <field name="item_name">Valerian Root</field>
-    <field name="item_name">Vetiver Root</field>
-    <field name="item_name">Vox's Dust</field>
-    <field name="item_name">Wolf Blood</field>
-    <field name="item_name">Woundwart</field>
-    <field name="item_name">Yarrow</field>
-    <field name="item_name">Yebamante</field>
+    <field name="item_name">Arantir Karondor</field>
+    <field name="item_name">True Spirit</field>
+    <field name="item_name">[1]</field>
   </row>
   <row>
     <field name="merchantid">29001</field>
@@ -9313,6 +9240,7 @@
     <field name="merchantid">345096</field>
     <field name="id">29046</field>
     <field name="name">Guthan_Shawnasy</field>
+    <field name="item_name">Large Steel Kilt</field>
   </row>
   <row>
     <field name="merchantid">345097</field>
@@ -9526,31 +9454,13 @@
     <field name="merchantid">130000</field>
     <field name="id">30068</field>
     <field name="name">Starn_Bearjumper</field>
-    <field name="item_name">Spell: Abolish Disease</field>
-    <field name="item_name">Spell: Affliction</field>
-    <field name="item_name">Spell: Counteract Disease</field>
-    <field name="item_name">Spell: Counteract Poison</field>
-    <field name="item_name">Spell: Endure Disease</field>
-    <field name="item_name">Spell: Endure Poison</field>
-    <field name="item_name">Spell: Envenomed Bolt</field>
-    <field name="item_name">Spell: Envenomed Breath</field>
-    <field name="item_name">Spell: Gale of Poison</field>
-    <field name="item_name">Spell: Infectious Cloud</field>
-    <field name="item_name">Spell: Insidious Fever</field>
-    <field name="item_name">Spell: Insidious Malady</field>
-    <field name="item_name">Spell: Plague</field>
-    <field name="item_name">Spell: Poison Storm</field>
-    <field name="item_name">Spell: Resist Disease</field>
-    <field name="item_name">Spell: Resist Poison</field>
-    <field name="item_name">Spell: Scourge</field>
-    <field name="item_name">Spell: Sicken</field>
-    <field name="item_name">Spell: Tainted Breath</field>
-    <field name="item_name">Spell: Venom of the Snake</field>
+    <field name="item_name">Everfrost Peaks</field>
   </row>
   <row>
     <field name="merchantid">1013</field>
     <field name="id">30071</field>
     <field name="name">Trankia</field>
+    <field name="item_name">Sulgar</field>
   </row>
   <row>
     <field name="merchantid">130001</field>
@@ -9601,6 +9511,7 @@
     <field name="merchantid">1013</field>
     <field name="id">30117</field>
     <field name="name">Trankia</field>
+    <field name="item_name">Sulgar</field>
   </row>
   <row>
     <field name="merchantid">182164</field>
@@ -9626,9 +9537,7 @@
     <field name="merchantid">32000</field>
     <field name="id">32038</field>
     <field name="name">Zordak_Ragefire</field>
-    <field name="item_name">Oil of Fennin Ro</field>
-    <field name="item_name">Flame Arc</field>
-    <field name="item_name">Spell: Imbue Fire Opal</field>
+    <field name="item_name">Zordakalicus Ragefire</field>
   </row>
   <row>
     <field name="merchantid">33001</field>
@@ -10294,19 +10203,7 @@
     <field name="merchantid">40009</field>
     <field name="id">40022</field>
     <field name="name">Zumzal</field>
-    <field name="item_name">Backpack</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Club</field>
-    <field name="item_name">Dagger</field>
-    <field name="item_name">Dufrenite</field>
-    <field name="item_name">Flail</field>
-    <field name="item_name">Great Staff</field>
-    <field name="item_name">Mace</field>
-    <field name="item_name">Medicine Bag</field>
-    <field name="item_name">Morning Star</field>
-    <field name="item_name">Spear</field>
-    <field name="item_name">Staff</field>
-    <field name="item_name">Two Handed Hammer</field>
+    <field name="item_name">Carver Cagrek</field>
   </row>
   <row>
     <field name="merchantid">40010</field>
@@ -11123,19 +11020,8 @@
     <field name="merchantid">41017</field>
     <field name="id">41022</field>
     <field name="name">Veca_S`Karn</field>
-    <field name="item_name">Bloodstone</field>
-    <field name="item_name">Cat's Eye Agate</field>
-    <field name="item_name">Dagger</field>
-    <field name="item_name">Jasper</field>
-    <field name="item_name">Peridot</field>
-    <field name="item_name">Piece of Parchment</field>
-    <field name="item_name">Quill</field>
-    <field name="item_name">Rapier</field>
-    <field name="item_name">Star Rose Quartz</field>
-    <field name="item_name">Throwing Knife</field>
-    <field name="item_name">Tiny Dagger</field>
-    <field name="item_name">Tome of Endless Enchantments</field>
-    <field name="item_name">Wrist Pouch</field>
+    <field name="item_name">The Spurned</field>
+    <field name="item_name">Enchanter</field>
   </row>
   <row>
     <field name="merchantid">41018</field>
@@ -11530,24 +11416,7 @@
     <field name="merchantid">41040</field>
     <field name="id">41085</field>
     <field name="name">Sivy_G`Noir</field>
-    <field name="item_name">Axe Head Mold</field>
-    <field name="item_name">Curved Blade Mold</field>
-    <field name="item_name">Dagger Blade Mold</field>
-    <field name="item_name">Halberd Head Mold</field>
-    <field name="item_name">Hammer Head Mold</field>
-    <field name="item_name">Hilt Mold</field>
-    <field name="item_name">Javelin Mold</field>
-    <field name="item_name">Long Blade Mold</field>
-    <field name="item_name">Mace Head Mold</field>
-    <field name="item_name">Oak Shaft</field>
-    <field name="item_name">Pick Head Mold</field>
-    <field name="item_name">Pommel Mold</field>
-    <field name="item_name">Short Blade Mold</field>
-    <field name="item_name">Shuriken Mold</field>
-    <field name="item_name">Spear Head Mold</field>
-    <field name="item_name">Thin Blade Mold</field>
-    <field name="item_name">Throwing Axe Mold</field>
-    <field name="item_name">Throwing Knife Mold</field>
+    <field name="item_name">The Blind Fish</field>
   </row>
   <row>
     <field name="merchantid">41041</field>
@@ -11585,13 +11454,7 @@
     <field name="merchantid">41043</field>
     <field name="id">41090</field>
     <field name="name">Zartox_Ru`Soe</field>
-    <field name="item_name">Electrum Bar</field>
-    <field name="item_name">Fire Emerald</field>
-    <field name="item_name">Gold Bar</field>
-    <field name="item_name">Jeweler's Kit</field>
-    <field name="item_name">Platinum Bar</field>
-    <field name="item_name">Silver Bar</field>
-    <field name="item_name">Star Ruby</field>
+    <field name="item_name">jewelcraft</field>
   </row>
   <row>
     <field name="merchantid">41044</field>
@@ -11636,27 +11499,7 @@
     <field name="merchantid">41046</field>
     <field name="id">41093</field>
     <field name="name">Trista_N`Ryt</field>
-    <field name="item_name">Block of Adamantite</field>
-    <field name="item_name">Hilt Mold</field>
-    <field name="item_name">Large Brick of Adamantite</field>
-    <field name="item_name">Small Breastplate Mold</field>
-    <field name="item_name">Small Brick of Adamantite</field>
-    <field name="item_name">Small Buckler Mold</field>
-    <field name="item_name">Small Field Splinted Cloak Mold</field>
-    <field name="item_name">Small Kite Shield Mold</field>
-    <field name="item_name">Small Plate Belt Mold</field>
-    <field name="item_name">Small Plate Boot Mold</field>
-    <field name="item_name">Small Plate Bracer Mold</field>
-    <field name="item_name">Small Plate Gauntlet Mold</field>
-    <field name="item_name">Small Plate Gorget Mold</field>
-    <field name="item_name">Small Plate Greaves Mold</field>
-    <field name="item_name">Small Plate Helm Mold</field>
-    <field name="item_name">Small Plate Pauldron Mold</field>
-    <field name="item_name">Small Plate Vambrace Mold</field>
-    <field name="item_name">Small Plate Visor Mold</field>
-    <field name="item_name">Small Round Shield Mold</field>
-    <field name="item_name">Small Targ Shield Mold</field>
-    <field name="item_name">Small Tower Shield Mold</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">41047</field>
@@ -11985,6 +11828,11 @@
     <field name="merchantid">42013</field>
     <field name="id">42029</field>
     <field name="name">Myris_N`Tan</field>
+    <field name="item_name">Spell: Expel Summoned</field>
+    <field name="item_name">Spell: Immobilize</field>
+    <field name="item_name">Spell: Shield of Words</field>
+    <field name="item_name">Spell: Sound of Force</field>
+    <field name="item_name">Spell: Word Divine</field>
   </row>
   <row>
     <field name="merchantid">42014</field>
@@ -12321,48 +12169,13 @@
     <field name="merchantid">42033</field>
     <field name="id">42086</field>
     <field name="name">Draan_N`Ryt</field>
-    <field name="item_name">Block of Adamantite</field>
-    <field name="item_name">Chainmail Boot Pattern</field>
-    <field name="item_name">Chainmail Bracelet Pattern</field>
-    <field name="item_name">Chainmail Cloak Pattern</field>
-    <field name="item_name">Chainmail Coif Pattern</field>
-    <field name="item_name">Chainmail Glove Pattern</field>
-    <field name="item_name">Chainmail Mantle Pattern</field>
-    <field name="item_name">Chainmail Neckguard Pattern</field>
-    <field name="item_name">Chainmail Pant Pattern</field>
-    <field name="item_name">Chainmail Skirt Pattern</field>
-    <field name="item_name">Chainmail Sleeve Pattern</field>
-    <field name="item_name">Chainmail Tunic Pattern</field>
-    <field name="item_name">Chainmail Veil Pattern</field>
-    <field name="item_name">Large Brick of Adamantite</field>
-    <field name="item_name">Sheet of Adamantite</field>
-    <field name="item_name">Small Brick of Adamantite</field>
-    <field name="item_name">Teir`Dal Smithy Hammer</field>
+    <field name="item_name">Dark Elf</field>
   </row>
   <row>
     <field name="merchantid">42030</field>
     <field name="id">42087</field>
     <field name="name">Krystiana_N`Ryt</field>
-    <field name="item_name">Fireprides Guide to Shield Craft</field>
-    <field name="item_name">Ikthars Fine Steel Skin</field>
-    <field name="item_name">Rings, Chains, and Arrowheads</field>
-    <field name="item_name">Small Breastplate Mold</field>
-    <field name="item_name">Small Buckler Mold</field>
-    <field name="item_name">Small Field Splinted Cloak Mold</field>
-    <field name="item_name">Small Kite Shield Mold</field>
-    <field name="item_name">Small Plate Belt Mold</field>
-    <field name="item_name">Small Plate Boot Mold</field>
-    <field name="item_name">Small Plate Bracer Mold</field>
-    <field name="item_name">Small Plate Gauntlet Mold</field>
-    <field name="item_name">Small Plate Gorget Mold</field>
-    <field name="item_name">Small Plate Greaves Mold</field>
-    <field name="item_name">Small Plate Helm Mold</field>
-    <field name="item_name">Small Plate Pauldron Mold</field>
-    <field name="item_name">Small Plate Vambrace Mold</field>
-    <field name="item_name">Small Plate Visor Mold</field>
-    <field name="item_name">Small Round Shield Mold</field>
-    <field name="item_name">Small Targ Shield Mold</field>
-    <field name="item_name">Small Tower Shield Mold</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">42034</field>
@@ -12392,9 +12205,7 @@
     <field name="merchantid">42031</field>
     <field name="id">42089</field>
     <field name="name">Dvis_Zexus</field>
-    <field name="item_name">Fuligan Soulstone of Innoruuk</field>
-    <field name="item_name">Jade Inlaid Coffin</field>
-    <field name="item_name">Tiny Jade Inlaid Coffin</field>
+    <field name="item_name">Neriak Third Gate</field>
   </row>
   <row>
     <field name="merchantid">182171</field>
@@ -12446,6 +12257,16 @@
     <field name="merchantid">224132</field>
     <field name="id">45048</field>
     <field name="name">Fellweni_the_Kraven</field>
+    <field name="item_name">Spell: Asystole</field>
+    <field name="item_name">Spell: Banish Undead</field>
+    <field name="item_name">Spell: Cajole Undead</field>
+    <field name="item_name">Spell: Cascading Darkness</field>
+    <field name="item_name">Spell: Covetous Subversion</field>
+    <field name="item_name">Spell: Diamondskin</field>
+    <field name="item_name">Spell: Drain Soul</field>
+    <field name="item_name">Spell: Ignite Blood</field>
+    <field name="item_name">Spell: Ignite Bones</field>
+    <field name="item_name">Spell: Pact of Shadow</field>
   </row>
   <row>
     <field name="merchantid">45006</field>
@@ -13273,9 +13094,6 @@
     <field name="merchantid">345078</field>
     <field name="id">49063</field>
     <field name="name">Crunga</field>
-    <field name="item_name">Clurg</field>
-    <field name="item_name">Merchants of Ogguk</field>
-    <field name="item_name">Oggok Guards</field>
   </row>
   <row>
     <field name="merchantid">49026</field>
@@ -13303,7 +13121,6 @@
     <field name="merchantid">49028</field>
     <field name="id">49067</field>
     <field name="name">Lopuka</field>
-    <field name="item_name">Clurg</field>
   </row>
   <row>
     <field name="merchantid">49029</field>
@@ -13647,6 +13464,7 @@
     <field name="merchantid">50008</field>
     <field name="id">50088</field>
     <field name="name">Viira_Bali</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">50005</field>
@@ -13763,37 +13581,15 @@
     <field name="merchantid">50000</field>
     <field name="id">50116</field>
     <field name="name">Lianna_Ferasa</field>
-    <field name="item_name">Axe</field>
-    <field name="item_name">Backpack</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Dagger</field>
-    <field name="item_name">Hand Drum</field>
-    <field name="item_name">Horn</field>
-    <field name="item_name">Lockpicks</field>
-    <field name="item_name">Long Sword</field>
-    <field name="item_name">Lute</field>
-    <field name="item_name">Mandolin</field>
-    <field name="item_name">Scimitar</field>
-    <field name="item_name">Spear</field>
-    <field name="item_name">Throwing Axe</field>
-    <field name="item_name">Throwing Knife</field>
-    <field name="item_name">Wooden Flute</field>
+    <field name="item_name">her flute</field>
+    <field name="item_name">Icon of the Reverent</field>
   </row>
   <row>
     <field name="merchantid">182177</field>
     <field name="id">50119</field>
     <field name="name">Karam_Dragonforge</field>
-    <field name="item_name">Small Plate Gauntlets</field>
-    <field name="item_name">Small Plate Girdle</field>
-    <field name="item_name">Small Platemail Helm</field>
-    <field name="item_name">Small Splinted Cloak</field>
-    <field name="item_name">Small Steel Bracers</field>
-    <field name="item_name">Small Steel Breastplate</field>
-    <field name="item_name">Small Steel Collar</field>
-    <field name="item_name">Small Steel Greaves</field>
-    <field name="item_name">Small Steel Mask</field>
-    <field name="item_name">Small Steel Pauldron</field>
-    <field name="item_name">Small Steel Vambraces</field>
+    <field name="item_name">Lady Vox</field>
+    <field name="item_name">Lord Nagafen</field>
   </row>
   <row>
     <field name="merchantid">50013</field>
@@ -13938,7 +13734,6 @@
     <field name="merchantid">345068</field>
     <field name="id">52021</field>
     <field name="name">Beztopi</field>
-    <field name="item_name">Grobb Merchants</field>
   </row>
   <row>
     <field name="merchantid">52003</field>
@@ -14144,7 +13939,6 @@
     <field name="merchantid">345087</field>
     <field name="id">52045</field>
     <field name="name">Ootok</field>
-    <field name="item_name">Grobb Merchants</field>
   </row>
   <row>
     <field name="merchantid">52018</field>
@@ -14441,19 +14235,8 @@
     <field name="merchantid">54004</field>
     <field name="id">54050</field>
     <field name="name">Linadian</field>
-    <field name="item_name">Cloth Cap</field>
-    <field name="item_name">Cloth Cape</field>
-    <field name="item_name">Cloth Choker</field>
-    <field name="item_name">Cloth Cord</field>
-    <field name="item_name">Cloth Gloves</field>
-    <field name="item_name">Cloth Pants</field>
-    <field name="item_name">Cloth Shawl</field>
-    <field name="item_name">Cloth Shirt</field>
-    <field name="item_name">Cloth Sleeves</field>
-    <field name="item_name">Cloth Veil</field>
-    <field name="item_name">Cloth Wristband</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">Small Sewing Kit</field>
+    <field name="item_name">Greater Faydark</field>
+    <field name="item_name">Orc Vest</field>
   </row>
   <row>
     <field name="merchantid">54005</field>
@@ -14511,10 +14294,6 @@
     <field name="merchantid">54010</field>
     <field name="id">54078</field>
     <field name="name">Verth_Mistwielder</field>
-    <field name="item_name">Clerics of Tunare</field>
-    <field name="item_name">Faydarks Champions</field>
-    <field name="item_name">King Tearis Thex</field>
-    <field name="item_name">Soldiers of Tunare</field>
   </row>
   <row>
     <field name="merchantid">54011</field>
@@ -14615,22 +14394,7 @@
     <field name="merchantid">54018</field>
     <field name="id">54130</field>
     <field name="name">Merchant_Ueaas</field>
-    <field name="item_name">Bark Potion</field>
-    <field name="item_name">Cloudy Potion</field>
-    <field name="item_name">Invisibility</field>
-    <field name="item_name">Crimson Potion</field>
-    <field name="item_name">Crystallized Pumice</field>
-    <field name="item_name">Nullify Magic</field>
-    <field name="item_name">Fish Gill Extract</field>
-    <field name="item_name">Harvest Crystal</field>
-    <field name="item_name">Mistletoe</field>
-    <field name="item_name">Murky Vial</field>
-    <field name="item_name">Pale Green Potion</field>
-    <field name="item_name">Sandalwood</field>
-    <field name="item_name">Spring Crystal</field>
-    <field name="item_name">Vial of Swirling Smoke</field>
-    <field name="item_name">Gate</field>
-    <field name="item_name">Wrist Pouch</field>
+    <field name="item_name">Greedy Merchant</field>
   </row>
   <row>
     <field name="merchantid">54000</field>
@@ -15299,9 +15063,6 @@
     <field name="merchantid">54060</field>
     <field name="id">54184</field>
     <field name="name">Srendon_Gladetender</field>
-    <field name="item_name">Faydark's Champions</field>
-    <field name="item_name">King Tearis Thex</field>
-    <field name="item_name">Soldiers of Tunare</field>
   </row>
   <row>
     <field name="merchantid">202117</field>
@@ -15373,85 +15134,19 @@
     <field name="merchantid">55023</field>
     <field name="id">55098</field>
     <field name="name">a_clockwork_alchemist</field>
-    <field name="item_name">Bark Potion</field>
-    <field name="item_name">Chipped Bone Rod</field>
-    <field name="item_name">Locate Corpse</field>
-    <field name="item_name">Cloudy Potion</field>
-    <field name="item_name">Invisibility</field>
-    <field name="item_name">Crimson Potion</field>
-    <field name="item_name">Crystallized Pumice</field>
-    <field name="item_name">Nullify Magic</field>
-    <field name="item_name">Dufrenite</field>
-    <field name="item_name">Fish Gill Extract</field>
-    <field name="item_name">Harvest Crystal</field>
-    <field name="item_name">Mistletoe</field>
-    <field name="item_name">Murky Vial</field>
-    <field name="item_name">Pale Green Potion</field>
-    <field name="item_name">Potion of Light Healing</field>
-    <field name="item_name">Light Healing</field>
-    <field name="item_name">Sandalwood</field>
-    <field name="item_name">Spring Crystal</field>
-    <field name="item_name">Vial of Swirling Smoke</field>
-    <field name="item_name">Gate</field>
-    <field name="item_name">Wrist Pouch</field>
+    <field name="item_name">alchemy</field>
   </row>
   <row>
     <field name="merchantid">55024</field>
     <field name="id">55099</field>
     <field name="name">a_clockwork_jeweler</field>
-    <field name="item_name">Amber</field>
-    <field name="item_name">Bloodstone</field>
-    <field name="item_name">Carnelian</field>
-    <field name="item_name">Electrum Bar</field>
-    <field name="item_name">Emerald</field>
-    <field name="item_name">Fire Emerald</field>
-    <field name="item_name">Fire Opal</field>
-    <field name="item_name">Gold Bar</field>
-    <field name="item_name">Hematite</field>
-    <field name="item_name">Jade</field>
-    <field name="item_name">Jasper</field>
-    <field name="item_name">Lapis Lazuli</field>
-    <field name="item_name">Malachite</field>
-    <field name="item_name">Onyx</field>
-    <field name="item_name">Opal</field>
-    <field name="item_name">Pearl</field>
-    <field name="item_name">Peridot</field>
-    <field name="item_name">Platinum Bar</field>
-    <field name="item_name">Sapphire</field>
-    <field name="item_name">Silver Bar</field>
-    <field name="item_name">Star Rose Quartz</field>
-    <field name="item_name">Star Ruby</field>
-    <field name="item_name">Topaz</field>
-    <field name="item_name">Turquoise</field>
+    <field name="item_name">jewelcraft</field>
   </row>
   <row>
     <field name="merchantid">55025</field>
     <field name="id">55100</field>
     <field name="name">a_clockwork_jeweler</field>
-    <field name="item_name">Amber</field>
-    <field name="item_name">Bloodstone</field>
-    <field name="item_name">Carnelian</field>
-    <field name="item_name">Electrum Bar</field>
-    <field name="item_name">Emerald</field>
-    <field name="item_name">Fire Emerald</field>
-    <field name="item_name">Fire Opal</field>
-    <field name="item_name">Gold Bar</field>
-    <field name="item_name">Hematite</field>
-    <field name="item_name">Jade</field>
-    <field name="item_name">Jasper</field>
-    <field name="item_name">Lapis Lazuli</field>
-    <field name="item_name">Malachite</field>
-    <field name="item_name">Onyx</field>
-    <field name="item_name">Opal</field>
-    <field name="item_name">Pearl</field>
-    <field name="item_name">Peridot</field>
-    <field name="item_name">Platinum Bar</field>
-    <field name="item_name">Sapphire</field>
-    <field name="item_name">Silver Bar</field>
-    <field name="item_name">Star Rose Quartz</field>
-    <field name="item_name">Star Ruby</field>
-    <field name="item_name">Topaz</field>
-    <field name="item_name">Turquoise</field>
+    <field name="item_name">jewelcraft</field>
   </row>
   <row>
     <field name="merchantid">55027</field>
@@ -15470,20 +15165,7 @@
     <field name="merchantid">55075</field>
     <field name="id">55102</field>
     <field name="name">a_clockwork_bowyer</field>
-    <field name="item_name">Ashwood Bow Staff</field>
-    <field name="item_name">Bowyers Guide</field>
-    <field name="item_name">Darkwood Bow Staff</field>
-    <field name="item_name">Elm Bow Staff</field>
-    <field name="item_name">Fletching Kit</field>
-    <field name="item_name">Hemp Twine</field>
-    <field name="item_name">Hickory Bow Staff</field>
-    <field name="item_name">Linen String</field>
-    <field name="item_name">Oak Bow Staff</field>
-    <field name="item_name">Planing Tool</field>
-    <field name="item_name">Shadewood Bow Staff</field>
-    <field name="item_name">Silk String</field>
-    <field name="item_name">Standard Bow Cam</field>
-    <field name="item_name">Whittling Blade</field>
+    <field name="item_name">fletching</field>
   </row>
   <row>
     <field name="merchantid">345073</field>
@@ -15555,119 +15237,37 @@
     <field name="merchantid">55042</field>
     <field name="id">55107</field>
     <field name="name">a_clockwork_armorer</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King Ak'Anon</field>
-    <field name="item_name">Merchants of AkAnon</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">55043</field>
     <field name="id">55108</field>
     <field name="name">a_clockwork_armorer</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King Ak'Anon</field>
-    <field name="item_name">Merchants of AkAnon</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">55077</field>
     <field name="id">55109</field>
     <field name="name">a_clockwork_tanner</field>
-    <field name="item_name">Boot Pattern</field>
-    <field name="item_name">Cap Pattern</field>
-    <field name="item_name">Glove Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">How To Sew: Small Sizes</field>
-    <field name="item_name">Pant Pattern</field>
-    <field name="item_name">Sleeve Pattern</field>
-    <field name="item_name">Small Leather Belt</field>
-    <field name="item_name">Small Leather Boots</field>
-    <field name="item_name">Small Leather Cloak</field>
-    <field name="item_name">Small Leather Gloves</field>
-    <field name="item_name">Small Leather Gorget</field>
-    <field name="item_name">Small Leather Leggings</field>
-    <field name="item_name">Small Leather Mask</field>
-    <field name="item_name">Small Leather Shoulderpads</field>
-    <field name="item_name">Small Leather Skullcap</field>
-    <field name="item_name">Small Leather Sleeves</field>
-    <field name="item_name">Small Leather Tunic</field>
-    <field name="item_name">Small Leather Wristbands</field>
-    <field name="item_name">Small Sewing Kit</field>
-    <field name="item_name">Tunic Pattern</field>
+    <field name="item_name">tailoring</field>
   </row>
   <row>
     <field name="merchantid">55076</field>
     <field name="id">55110</field>
     <field name="name">a_clockwork_tanner</field>
-    <field name="item_name">Boot Pattern</field>
-    <field name="item_name">Cap Pattern</field>
-    <field name="item_name">Glove Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">How To Sew: Small Sizes</field>
-    <field name="item_name">Pant Pattern</field>
-    <field name="item_name">Sleeve Pattern</field>
-    <field name="item_name">Small Leather Belt</field>
-    <field name="item_name">Small Leather Boots</field>
-    <field name="item_name">Small Leather Cloak</field>
-    <field name="item_name">Small Leather Gloves</field>
-    <field name="item_name">Small Leather Gorget</field>
-    <field name="item_name">Small Leather Leggings</field>
-    <field name="item_name">Small Leather Mask</field>
-    <field name="item_name">Small Leather Shoulderpads</field>
-    <field name="item_name">Small Leather Skullcap</field>
-    <field name="item_name">Small Leather Sleeves</field>
-    <field name="item_name">Small Leather Tunic</field>
-    <field name="item_name">Small Leather Wristbands</field>
-    <field name="item_name">Small Sewing Kit</field>
-    <field name="item_name">Tunic Pattern</field>
+    <field name="item_name">tailoring</field>
   </row>
   <row>
     <field name="merchantid">55078</field>
     <field name="id">55111</field>
     <field name="name">a_clockwork_tailor</field>
-    <field name="item_name">Backpack Pattern</field>
-    <field name="item_name">Belt Pattern</field>
-    <field name="item_name">Boot Pattern</field>
-    <field name="item_name">Cap Pattern</field>
-    <field name="item_name">Cloak Pattern</field>
-    <field name="item_name">Fleeting Quiver Pattern</field>
-    <field name="item_name">Glove Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">Small Sewing Kit</field>
-    <field name="item_name">Mask Pattern</field>
-    <field name="item_name">Pant Pattern</field>
-    <field name="item_name">Quill</field>
-    <field name="item_name">Quiver Pattern</field>
-    <field name="item_name">Robe Pattern</field>
-    <field name="item_name">Shoulderpad Pattern</field>
-    <field name="item_name">Sleeve Pattern</field>
-    <field name="item_name">Tunic Pattern</field>
-    <field name="item_name">Whip Pattern</field>
-    <field name="item_name">Wristband Pattern</field>
+    <field name="item_name">tailoring</field>
   </row>
   <row>
     <field name="merchantid">55047</field>
     <field name="id">55112</field>
     <field name="name">a_clockwork_tailor</field>
-    <field name="item_name">Backpack Pattern</field>
-    <field name="item_name">Belt Pattern</field>
-    <field name="item_name">Boot Pattern</field>
-    <field name="item_name">Cap Pattern</field>
-    <field name="item_name">Cloak Pattern</field>
-    <field name="item_name">Fleeting Quiver Pattern</field>
-    <field name="item_name">Glove Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">Small Sewing Kit</field>
-    <field name="item_name">Mask Pattern</field>
-    <field name="item_name">Pant Pattern</field>
-    <field name="item_name">Quill</field>
-    <field name="item_name">Quiver Pattern</field>
-    <field name="item_name">Robe Pattern</field>
-    <field name="item_name">Shoulderpad Pattern</field>
-    <field name="item_name">Sleeve Pattern</field>
-    <field name="item_name">Tunic Pattern</field>
-    <field name="item_name">Whip Pattern</field>
-    <field name="item_name">Wristband Pattern</field>
+    <field name="item_name">tailoring</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -15678,10 +15278,17 @@
     <field name="merchantid">55048</field>
     <field name="id">55115</field>
     <field name="name">a_clockwork_priest</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King Ak'Anon</field>
-    <field name="item_name">Merchants of Ak'Anon</field>
+    <field name="item_name">Backpack</field>
+    <field name="item_name">Bandages</field>
+    <field name="item_name">Club</field>
+    <field name="item_name">Flail</field>
+    <field name="item_name">Great Staff</field>
+    <field name="item_name">Mace</field>
+    <field name="item_name">Morning Star</field>
+    <field name="item_name">Round Shield</field>
+    <field name="item_name">Staff</field>
+    <field name="item_name">Two Handed Hammer</field>
+    <field name="item_name">Warhammer</field>
   </row>
   <row>
     <field name="merchantid">55049</field>
@@ -15719,10 +15326,7 @@
     <field name="merchantid">55055</field>
     <field name="id">55141</field>
     <field name="name">a_clockwork_armorer</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King Ak'Anon</field>
-    <field name="item_name">Merchants of AkAnon</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">55056</field>
@@ -15754,25 +15358,7 @@
     <field name="merchantid">55079</field>
     <field name="id">55144</field>
     <field name="name">a_clockwork_tailor</field>
-    <field name="item_name">Backpack Pattern</field>
-    <field name="item_name">Belt Pattern</field>
-    <field name="item_name">Boot Pattern</field>
-    <field name="item_name">Cap Pattern</field>
-    <field name="item_name">Cloak Pattern</field>
-    <field name="item_name">Fleeting Quiver Pattern</field>
-    <field name="item_name">Glove Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">Small Sewing Kit</field>
-    <field name="item_name">Mask Pattern</field>
-    <field name="item_name">Pant Pattern</field>
-    <field name="item_name">Quill</field>
-    <field name="item_name">Quiver Pattern</field>
-    <field name="item_name">Robe Pattern</field>
-    <field name="item_name">Shoulderpad Pattern</field>
-    <field name="item_name">Sleeve Pattern</field>
-    <field name="item_name">Tunic Pattern</field>
-    <field name="item_name">Whip Pattern</field>
-    <field name="item_name">Wristband Pattern</field>
+    <field name="item_name">tailoring</field>
   </row>
   <row>
     <field name="merchantid">55058</field>
@@ -15826,10 +15412,6 @@
     <field name="merchantid">55061</field>
     <field name="id">55150</field>
     <field name="name">Zenrel_Ottonoggin</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King AkAnon</field>
-    <field name="item_name">Merchants of Ak'Anon</field>
   </row>
   <row>
     <field name="merchantid">55062</field>
@@ -16150,71 +15732,19 @@
     <field name="merchantid">182184</field>
     <field name="id">56119</field>
     <field name="name">Godbin_Strumharp</field>
-    <field name="item_name">Block of Clay</field>
-    <field name="item_name">Empty Vial</field>
-    <field name="item_name">How to Dye and Stain</field>
-    <field name="item_name">Jar of Acid</field>
-    <field name="item_name">Jar of Lacquer</field>
-    <field name="item_name">Large Block of Clay</field>
-    <field name="item_name">Large Brick of Medium Quality Ore</field>
-    <field name="item_name">Large Brick of Ore</field>
-    <field name="item_name">Medium Quality Sheet Metal</field>
-    <field name="item_name">Resin</field>
-    <field name="item_name">Sharpening Stone</field>
-    <field name="item_name">Small Block of Clay</field>
-    <field name="item_name">Small Brick of Medium Quality Ore</field>
-    <field name="item_name">Small Brick of Ore</field>
-    <field name="item_name">Small Piece of Ore</field>
-    <field name="item_name">Smithy Hammer</field>
-    <field name="item_name">Steel Wire</field>
+    <field name="item_name">smithing</field>
   </row>
   <row>
     <field name="merchantid">182182</field>
     <field name="id">56120</field>
     <field name="name">Bom_Knotwood</field>
-    <field name="item_name">Cork</field>
-    <field name="item_name">Fine Coral Mesh</field>
-    <field name="item_name">Gears</field>
-    <field name="item_name">Gnomish Bolts</field>
-    <field name="item_name">Grease</field>
-    <field name="item_name">Journal of Gimblestan XIV</field>
-    <field name="item_name">Journal of Gimblestan XV</field>
-    <field name="item_name">Lime Coated Meshing</field>
-    <field name="item_name">Metal Fastening</field>
-    <field name="item_name">Metal Rod</field>
-    <field name="item_name">Metal Shaft</field>
-    <field name="item_name">Metal Twine</field>
-    <field name="item_name">Reflective Shard</field>
-    <field name="item_name">Sharkskin Tubing</field>
-    <field name="item_name">Silk Lined Steel Helm</field>
-    <field name="item_name">Spriket</field>
-    <field name="item_name">Sprockets</field>
-    <field name="item_name">Static Orb</field>
-    <field name="item_name">Steel Lined Gloves</field>
-    <field name="item_name">Toolbox</field>
+    <field name="item_name">tinkering</field>
   </row>
   <row>
     <field name="merchantid">56003</field>
     <field name="id">56121</field>
     <field name="name">Oren_Furdenbline</field>
-    <field name="item_name">Animal Cookie Mold</field>
-    <field name="item_name">Barbarian Cookie Mold</field>
-    <field name="item_name">Basic Blacksmithing</field>
-    <field name="item_name">Bread Tin Mold</field>
-    <field name="item_name">Cake Round Mold</field>
-    <field name="item_name">Gnome Cookie Mold</field>
-    <field name="item_name">Hinge Mold</field>
-    <field name="item_name">Lantern Casing Mold</field>
-    <field name="item_name">Muffin Tin Mold</field>
-    <field name="item_name">Pie Tin Mold</field>
-    <field name="item_name">Pot Mold</field>
-    <field name="item_name">Scaler Mold</field>
-    <field name="item_name">Skewer Mold</field>
-    <field name="item_name">Smoker Base Mold</field>
-    <field name="item_name">Smoker Support Mold</field>
-    <field name="item_name">Spit</field>
-    <field name="item_name">Standing Legs Mold</field>
-    <field name="item_name">Troll Cookie Mold</field>
+    <field name="item_name">blacksmithing</field>
   </row>
   <row>
     <field name="merchantid">56004</field>
@@ -16294,10 +15824,6 @@
     <field name="merchantid">56006</field>
     <field name="id">56156</field>
     <field name="name">a_mechanical_merchant</field>
-    <field name="item_name">Deep Muses</field>
-    <field name="item_name">Gem Choppers</field>
-    <field name="item_name">King Ak'Anon</field>
-    <field name="item_name">Merchants of Ak'Anon</field>
   </row>
   <row>
     <field name="merchantid">182186</field>
@@ -16348,37 +15874,15 @@
     <field name="merchantid">60008</field>
     <field name="id">60011</field>
     <field name="name">Tumpy_Irontoe</field>
-    <field name="item_name">Ale</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Brandy</field>
-    <field name="item_name">Cask</field>
-    <field name="item_name">Fish Wine</field>
-    <field name="item_name">Grapes</field>
-    <field name="item_name">Honey Mead</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Packet of Kiola Sap</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Short Ale</field>
-    <field name="item_name">Short Beer</field>
-    <field name="item_name">Shotglass</field>
+    <field name="item_name">Trueshot Longbow Quest</field>
     <field name="item_name">Underfoot Triple Bock</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name">Rogue Redemption</field>
   </row>
   <row>
     <field name="merchantid">60000</field>
     <field name="id">60019</field>
     <field name="name">Vacto_Molunel</field>
-    <field name="item_name">Backpack</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Bastard Sword</field>
-    <field name="item_name">Battle Axe</field>
-    <field name="item_name">Kite Shield</field>
-    <field name="item_name">Long Sword</field>
-    <field name="item_name">Round Shield</field>
-    <field name="item_name">Short Sword</field>
-    <field name="item_name">Spear</field>
-    <field name="item_name">Two Handed Sword</field>
-    <field name="item_name">Warhammer</field>
+    <field name="item_name">Warrior</field>
   </row>
   <row>
     <field name="merchantid">182189</field>
@@ -16555,24 +16059,8 @@
     <field name="merchantid">60007</field>
     <field name="id">60075</field>
     <field name="name">Hanamaf_Darkfoam</field>
-    <field name="item_name">Ale</field>
-    <field name="item_name">Barley</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Brandy</field>
-    <field name="item_name">Cask</field>
     <field name="item_name">Deep Fungus Mold</field>
     <field name="item_name">Distilled Spirits</field>
-    <field name="item_name">Dwarven Ale</field>
-    <field name="item_name">Gnomish Spirits</field>
-    <field name="item_name">Grapes</field>
-    <field name="item_name">Hops</field>
-    <field name="item_name">Malt</field>
-    <field name="item_name">Rice</field>
-    <field name="item_name">Short Ale</field>
-    <field name="item_name">Short Beer</field>
-    <field name="item_name">Shotglass</field>
-    <field name="item_name">Wine Yeast</field>
-    <field name="item_name">Yeast</field>
   </row>
   <row>
     <field name="merchantid">60009</field>
@@ -16624,17 +16112,7 @@
     <field name="merchantid">60012</field>
     <field name="id">60080</field>
     <field name="name">Handaaf_Orcslicer</field>
-    <field name="item_name">Backpack</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Bastard Sword</field>
-    <field name="item_name">Battle Axe</field>
-    <field name="item_name">Long Sword</field>
-    <field name="item_name">Short Sword</field>
-    <field name="item_name">Small Kite Shield</field>
-    <field name="item_name">Small Round Shield</field>
-    <field name="item_name">Spear</field>
-    <field name="item_name">Two Handed Sword</field>
-    <field name="item_name">Warhammer</field>
+    <field name="item_name">Warrior</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -16645,7 +16123,7 @@
     <field name="merchantid">182190</field>
     <field name="id">60084</field>
     <field name="name">Buggle_Palkin</field>
-    <field name="item_name">Merchants of Kaladim</field>
+    <field name="item_name">Gretta Mottle</field>
   </row>
   <row>
     <field name="merchantid">61000</field>
@@ -16885,11 +16363,7 @@
     <field name="merchantid">61014</field>
     <field name="id">61034</field>
     <field name="name">Merchant_Nora</field>
-    <field name="item_name">Electrum Bar</field>
-    <field name="item_name">Gold Bar</field>
-    <field name="item_name">Jeweler's Kit</field>
-    <field name="item_name">Platinum Bar</field>
-    <field name="item_name">Silver Bar</field>
+    <field name="item_name">Jewelcraft</field>
   </row>
   <row>
     <field name="merchantid">61015</field>
@@ -17022,26 +16496,7 @@
     <field name="merchantid">61023</field>
     <field name="id">61048</field>
     <field name="name">Opal_Leganyn</field>
-    <field name="item_name">Axe Head Mold</field>
-    <field name="item_name">Block of Mithril</field>
-    <field name="item_name">Curved Blade Mold</field>
-    <field name="item_name">Dagger Blade Mold</field>
-    <field name="item_name">Halberd Head Mold</field>
-    <field name="item_name">Hammer Head Mold</field>
-    <field name="item_name">Hilt Mold</field>
-    <field name="item_name">Javelin Mold</field>
-    <field name="item_name">Large Brick of Mithril</field>
-    <field name="item_name">Long Blade Mold</field>
-    <field name="item_name">Mace Head Mold</field>
-    <field name="item_name">Oak Shaft</field>
-    <field name="item_name">Pick Head Mold</field>
-    <field name="item_name">Short Blade Mold</field>
-    <field name="item_name">Shuriken Mold</field>
-    <field name="item_name">Small Brick of Mithril</field>
-    <field name="item_name">Spear Head Mold</field>
-    <field name="item_name">Thin Blade Mold</field>
-    <field name="item_name">Throwing Axe Mold</field>
-    <field name="item_name">Throwing Knife Mold</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">61024</field>
@@ -17079,16 +16534,8 @@
     <field name="merchantid">61038</field>
     <field name="id">61052</field>
     <field name="name">Wela_Muselender</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Cask</field>
-    <field name="item_name">Elven Wine</field>
-    <field name="item_name">Gypsy Wine</field>
-    <field name="item_name">Honey Mead</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Shotglass</field>
     <field name="item_name">Tunare's Finest</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name">Rogue Redemption</field>
   </row>
   <row>
     <field name="merchantid">61027</field>
@@ -17853,8 +17300,7 @@
     <field name="merchantid">67027</field>
     <field name="id">67044</field>
     <field name="name">Serenk_Greybloom</field>
-    <field name="item_name">Grapes</field>
-    <field name="item_name">Mixing Bowl</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">67014</field>
@@ -18165,20 +17611,7 @@
     <field name="merchantid">67019</field>
     <field name="id">67084</field>
     <field name="name">Doramafi_Ratsbone</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Bottle</field>
-    <field name="item_name">Bottle of Milk</field>
-    <field name="item_name">Dagger</field>
-    <field name="item_name">Fishing Bait</field>
-    <field name="item_name">Fishing Pole</field>
-    <field name="item_name">Iron Ration</field>
-    <field name="item_name">Large Lantern</field>
-    <field name="item_name">Mead</field>
-    <field name="item_name">Ration</field>
-    <field name="item_name">Raw Bamboo</field>
-    <field name="item_name">Small Lantern</field>
-    <field name="item_name">Torch</field>
-    <field name="item_name">Water Flask</field>
+    <field name="item_name">North Kaladim</field>
   </row>
   <row>
     <field name="merchantid">67022</field>
@@ -18200,22 +17633,7 @@
     <field name="merchantid">68000</field>
     <field name="id">68053</field>
     <field name="name">Alga_Bruntbuckler</field>
-    <field name="item_name">Backpack Pattern</field>
-    <field name="item_name">Belt Pattern</field>
-    <field name="item_name">Cloak Pattern</field>
-    <field name="item_name">Fleeting Quiver Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">How To Sew: Large Sizes</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">How To Sew: Small Sizes</field>
-    <field name="item_name">Large Sewing Kit</field>
-    <field name="item_name">Mask Pattern</field>
-    <field name="item_name">Needle Mold</field>
-    <field name="item_name">Quiver Pattern</field>
-    <field name="item_name">Shoulderpad Pattern</field>
-    <field name="item_name">Thimble Mold</field>
-    <field name="item_name">Whip Pattern</field>
-    <field name="item_name">Wristband Pattern</field>
+    <field name="item_name">Greater Faydark</field>
   </row>
   <row>
     <field name="merchantid">68001</field>
@@ -18358,17 +17776,7 @@
     <field name="merchantid">68008</field>
     <field name="id">68099</field>
     <field name="name">Gand_Truelink</field>
-    <field name="item_name">Small Chain Coif</field>
-    <field name="item_name">Small Chainmail Belt</field>
-    <field name="item_name">Small Chainmail Bracelet</field>
-    <field name="item_name">Small Chainmail Cape</field>
-    <field name="item_name">Small Chainmail Coat</field>
-    <field name="item_name">Small Chainmail Gloves</field>
-    <field name="item_name">Small Chainmail Mantle</field>
-    <field name="item_name">Small Chainmail Neckguard</field>
-    <field name="item_name">Small Iron Armplates</field>
-    <field name="item_name">Small Iron Legplates</field>
-    <field name="item_name">Small Iron Mask</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">68009</field>
@@ -18583,19 +17991,8 @@
     <field name="merchantid">181009</field>
     <field name="id">69075</field>
     <field name="name">Cleonae_Kalen</field>
-    <field name="item_name">Black Burrow Stout</field>
-    <field name="item_name">Capt. Orlin's Spiced Ale</field>
-    <field name="item_name">Elven Wine</field>
-    <field name="item_name">Fishcakes</field>
-    <field name="item_name">Fishing Bait</field>
-    <field name="item_name">Fishing Pole</field>
-    <field name="item_name">Kiola Nut</field>
-    <field name="item_name">Loaf of Bread</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Short Ale</field>
     <field name="item_name">Vasty Deep Ale</field>
-    <field name="item_name">Water Flask</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name">Rogue Redemption</field>
   </row>
   <row>
     <field name="merchantid">69001</field>
@@ -18644,19 +18041,8 @@
     <field name="merchantid">182199</field>
     <field name="id">69110</field>
     <field name="name">Cleonae_Kalen</field>
-    <field name="item_name">Black Burrow Stout</field>
-    <field name="item_name">Capt. Orlin's Spiced Ale</field>
-    <field name="item_name">Elven Wine</field>
-    <field name="item_name">Fishcakes</field>
-    <field name="item_name">Fishing Bait</field>
-    <field name="item_name">Fishing Pole</field>
-    <field name="item_name">Kiola Nut</field>
-    <field name="item_name">Loaf of Bread</field>
-    <field name="item_name">Red Wine</field>
-    <field name="item_name">Short Ale</field>
     <field name="item_name">Vasty Deep Ale</field>
-    <field name="item_name">Water Flask</field>
-    <field name="item_name">White Wine</field>
+    <field name="item_name">Rogue Redemption</field>
   </row>
   <row>
     <field name="merchantid">182200</field>
@@ -19323,16 +18709,7 @@
     <field name="merchantid">75010</field>
     <field name="id">75069</field>
     <field name="name">Zarnlel_Apridor</field>
-    <field name="item_name">Spell: Courage</field>
-    <field name="item_name">Spell: Cure Poison</field>
-    <field name="item_name">Spell: Divine Aura</field>
-    <field name="item_name">Spell: Flash of Light</field>
-    <field name="item_name">Spell: Lull</field>
-    <field name="item_name">Spell: Minor Healing</field>
-    <field name="item_name">Spell: Spook the Dead</field>
-    <field name="item_name">Spell: Strike</field>
-    <field name="item_name">Spell: True North</field>
-    <field name="item_name">Spell: Yaulp</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">75011</field>
@@ -19363,15 +18740,7 @@
     <field name="merchantid">75012</field>
     <field name="id">75079</field>
     <field name="name">Rallia_Hapera</field>
-    <field name="item_name">Backpack</field>
-    <field name="item_name">Bandages</field>
-    <field name="item_name">Belt Pouch</field>
     <field name="item_name">Hole Key</field>
-    <field name="item_name">Large Bag</field>
-    <field name="item_name">Large Lantern</field>
-    <field name="item_name">Small Lantern</field>
-    <field name="item_name">Torch</field>
-    <field name="item_name">Water Flask</field>
   </row>
   <row>
     <field name="merchantid">75013</field>
@@ -19979,11 +19348,25 @@
     <field name="merchantid">82000</field>
     <field name="id">82002</field>
     <field name="name">Lithriss_Frizen</field>
+    <field name="item_name">Necromancer</field>
   </row>
   <row>
     <field name="merchantid">82001</field>
     <field name="id">82003</field>
     <field name="name">Keeper_Suffering</field>
+    <field name="item_name">Spell: Arch Shielding</field>
+    <field name="item_name">Spell: Bind Affinity</field>
+    <field name="item_name">Spell: Cancel Magic</field>
+    <field name="item_name">Spell: Gate</field>
+    <field name="item_name">Spell: Greater Shielding</field>
+    <field name="item_name">Spell: Identify</field>
+    <field name="item_name">Spell: Lesser Shielding</field>
+    <field name="item_name">Spell: Major Shielding</field>
+    <field name="item_name">Spell: Minor Shielding</field>
+    <field name="item_name">Spell: Nullify Magic</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Shielding</field>
+    <field name="item_name">Spell: True North</field>
   </row>
   <row>
     <field name="merchantid">82002</field>
@@ -20002,16 +19385,13 @@
     <field name="merchantid">82004</field>
     <field name="id">82008</field>
     <field name="name">Zotalz</field>
+    <field name="item_name">Fletching</field>
   </row>
   <row>
     <field name="merchantid">82005</field>
     <field name="id">82011</field>
     <field name="name">Jaxxtz</field>
-    <field name="item_name">Echinacea</field>
-    <field name="item_name">Fennel</field>
-    <field name="item_name">Heliotrope</field>
-    <field name="item_name">Oakmoss</field>
-    <field name="item_name">Yvonne's Guide to Alchemy</field>
+    <field name="item_name">Alchemy</field>
   </row>
   <row>
     <field name="merchantid">82006</field>
@@ -20076,36 +19456,34 @@
     <field name="merchantid">82012</field>
     <field name="id">82034</field>
     <field name="name">Keeper_Pain</field>
-    <field name="item_name">Spell: Asystole</field>
-    <field name="item_name">Spell: Banish Undead</field>
-    <field name="item_name">Spell: Cajole Undead</field>
-    <field name="item_name">Spell: Cascading Darkness</field>
-    <field name="item_name">Spell: Covetous Subversion</field>
-    <field name="item_name">Spell: Diamondskin</field>
-    <field name="item_name">Spell: Drain Soul</field>
-    <field name="item_name">Spell: Ignite Blood</field>
-    <field name="item_name">Spell: Ignite Bones</field>
-    <field name="item_name">Spell: Pact of Shadow</field>
+    <field name="item_name">Necromancer</field>
   </row>
   <row>
     <field name="merchantid">82013</field>
     <field name="id">82035</field>
     <field name="name">Keeper_Rott</field>
+    <field name="item_name">Necromancer</field>
+    <field name="item_name">Shadow Knight</field>
   </row>
   <row>
     <field name="merchantid">82014</field>
     <field name="id">82036</field>
     <field name="name">Keeper_Pestilence</field>
+    <field name="item_name">Necromancer</field>
   </row>
   <row>
     <field name="merchantid">82015</field>
     <field name="id">82037</field>
     <field name="name">Keeper_Plight</field>
+    <field name="item_name">Necromancer</field>
+    <field name="item_name">Shadow Knight</field>
   </row>
   <row>
     <field name="merchantid">82016</field>
     <field name="id">82038</field>
     <field name="name">Keeper_Bile</field>
+    <field name="item_name">Necromancer</field>
+    <field name="item_name">Shadow Knight</field>
   </row>
   <row>
     <field name="merchantid">82017</field>
@@ -20543,17 +19921,11 @@
     <field name="merchantid">84001</field>
     <field name="id">84164</field>
     <field name="name">Dran_Hieth</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84002</field>
     <field name="id">84165</field>
     <field name="name">Brisha_Fyrestone</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84003</field>
@@ -20576,25 +19948,16 @@
     <field name="merchantid">84004</field>
     <field name="id">84167</field>
     <field name="name">Rafron_Brandin</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84005</field>
     <field name="id">84168</field>
     <field name="name">Broawn_Goshart</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84006</field>
     <field name="id">84169</field>
     <field name="name">Dorg_McMerin</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">182117</field>
@@ -20607,17 +19970,29 @@
     <field name="merchantid">182115</field>
     <field name="id">84171</field>
     <field name="name">Fleceal_Summer</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84007</field>
     <field name="id">84178</field>
     <field name="name">Arial_Fern</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Spell: Annul Magic</field>
+    <field name="item_name">Spell: Bladecoat</field>
+    <field name="item_name">Spell: Breath of Ro</field>
+    <field name="item_name">Spell: Dustdevil</field>
+    <field name="item_name">Spell: Engorging Roots</field>
+    <field name="item_name">Spell: Exile Summoned</field>
+    <field name="item_name">Spell: Legacy of Spike</field>
+    <field name="item_name">Spell: Natureskin</field>
+    <field name="item_name">Spell: Regrowth</field>
+    <field name="item_name">Spell: Repulse Animal</field>
+    <field name="item_name">Spell: Scale of Wolf</field>
+    <field name="item_name">Spell: Scoriae</field>
+    <field name="item_name">Spell: Shield of Blades</field>
+    <field name="item_name">Spell: Superior Healing</field>
+    <field name="item_name">Spell: Wildfire</field>
+    <field name="item_name">Spell: Wind of the North</field>
+    <field name="item_name">Spell: Wind of the South</field>
+    <field name="item_name">Spell: Winged Death</field>
   </row>
   <row>
     <field name="merchantid">84008</field>
@@ -20662,33 +20037,74 @@
     <field name="merchantid">84010</field>
     <field name="id">84181</field>
     <field name="name">Selien_Nartoise</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Spell: Annul Magic</field>
+    <field name="item_name">Spell: Draught of Fire</field>
+    <field name="item_name">Spell: Draught of Ice</field>
+    <field name="item_name">Spell: Fetter</field>
+    <field name="item_name">Spell: Lure of Flame</field>
+    <field name="item_name">Spell: Lure of Frost</field>
+    <field name="item_name">Spell: Lure of Lightning</field>
+    <field name="item_name">Spell: Manaskin</field>
+    <field name="item_name">Spell: Shield of the Magi</field>
+    <field name="item_name">Spell: Voltaic Draught</field>
   </row>
   <row>
     <field name="merchantid">84011</field>
     <field name="id">84182</field>
     <field name="name">Shelae_Wolfkin</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Spell: Annul Magic</field>
+    <field name="item_name">Spell: Celerity</field>
+    <field name="item_name">Spell: Deliriously Nimble</field>
+    <field name="item_name">Spell: Ice Strike</field>
+    <field name="item_name">Spell: Immobilize</field>
+    <field name="item_name">Spell: Malosini</field>
+    <field name="item_name">Spell: Maniacal Strength</field>
+    <field name="item_name">Spell: Mortal Deftness</field>
+    <field name="item_name">Spell: Paralyzing Earth</field>
+    <field name="item_name">Spell: Regrowth</field>
+    <field name="item_name">Spell: Riotous Health</field>
+    <field name="item_name">Spell: Scale of Wolf</field>
+    <field name="item_name">Spell: Superior Healing</field>
+    <field name="item_name">Spell: Talisman of Kragg</field>
+    <field name="item_name">Spell: Turgur`s Insects</field>
+    <field name="item_name">Spell: Unfailing Reverence</field>
   </row>
   <row>
     <field name="merchantid">84012</field>
     <field name="id">84183</field>
     <field name="name">Clarissa_Heartweaver</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Spell: Annul Magic</field>
+    <field name="item_name">Spell: Antidote</field>
+    <field name="item_name">Spell: Banish Summoned</field>
+    <field name="item_name">Spell: Bulwark of Faith</field>
+    <field name="item_name">Spell: Celestial Elixir</field>
+    <field name="item_name">Spell: Divine Light</field>
+    <field name="item_name">Spell: Dread of Night</field>
+    <field name="item_name">Spell: Exile Undead</field>
+    <field name="item_name">Spell: Heroism</field>
+    <field name="item_name">Spell: Remedy</field>
+    <field name="item_name">Spell: Reviviscence</field>
+    <field name="item_name">Spell: Symbol of Marzin</field>
   </row>
   <row>
     <field name="merchantid">84013</field>
     <field name="id">84184</field>
     <field name="name">Drizel_Maxton</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Spell: Armor of Faith</field>
+    <field name="item_name">Spell: Counteract Disease</field>
+    <field name="item_name">Spell: Divine Aura</field>
+    <field name="item_name">Spell: Divine Favor</field>
+    <field name="item_name">Spell: Expel Undead</field>
+    <field name="item_name">Spell: Force</field>
+    <field name="item_name">Spell: Frenzied Strength</field>
+    <field name="item_name">Spell: Nullify Magic</field>
+    <field name="item_name">Spell: Pacify</field>
+    <field name="item_name">Spell: Resolution</field>
+    <field name="item_name">Spell: Resurrection</field>
+    <field name="item_name">Spell: Shield of Words</field>
+    <field name="item_name">Spell: Superior Healing</field>
+    <field name="item_name">Spell: Symbol of Naltron</field>
+    <field name="item_name">Spell: Yaulp III</field>
   </row>
   <row>
     <field name="merchantid">5042</field>
@@ -20715,9 +20131,25 @@
     <field name="merchantid">84014</field>
     <field name="id">84186</field>
     <field name="name">Balik_Wolftrot</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
+    <field name="item_name">Song: Angstlich's Assonance</field>
+    <field name="item_name">Song: Brusco's Bombastic Bellow</field>
+    <field name="item_name">Song: Cantata of Replenishment</field>
+    <field name="item_name">Song: Cassindra's Insipid Ditty</field>
+    <field name="item_name">Song: Denon's Bereavement</field>
+    <field name="item_name">Song: Jonthan's Inspiration</field>
+    <field name="item_name">Song: Kazumi's Note of Preservation</field>
+    <field name="item_name">Song: Largo's Assonant Binding</field>
+    <field name="item_name">Song: McVaxius' Rousing Rondo</field>
+    <field name="item_name">Song: Nillipus' March of the Wee</field>
+    <field name="item_name">Song: Niv's Harmonic</field>
+    <field name="item_name">Song: Selo's Assonant Strane</field>
+    <field name="item_name">Song: Selo's Song of Travel</field>
+    <field name="item_name">Song: Solon's Charismatic Concord</field>
+    <field name="item_name">Song: Song of Dawn</field>
+    <field name="item_name">Song: Song of Highsun</field>
+    <field name="item_name">Song: Song of Midnight</field>
+    <field name="item_name">Song: Song of Twilight</field>
+    <field name="item_name">Song: Vilia's Chorus of Celerity</field>
   </row>
   <row>
     <field name="merchantid">84015</field>
@@ -20759,9 +20191,6 @@
     <field name="merchantid">84018</field>
     <field name="id">84193</field>
     <field name="name">Shrub_Marwood</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84019</field>
@@ -20790,25 +20219,16 @@
     <field name="merchantid">84020</field>
     <field name="id">84196</field>
     <field name="name">Quizan_Gaxx</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84021</field>
     <field name="id">84197</field>
     <field name="name">Kaydin_Gaxx</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84022</field>
     <field name="id">84198</field>
     <field name="name">Dom_Pathfinder</field>
-    <field name="item_name">Emerald Warriors</field>
-    <field name="item_name">Storm Guard</field>
-    <field name="item_name">Inhabitants of Firiona Vie</field>
   </row>
   <row>
     <field name="merchantid">84023</field>
@@ -20888,18 +20308,7 @@
     <field name="merchantid">85001</field>
     <field name="id">85140</field>
     <field name="name">Klok_Sargin</field>
-    <field name="item_name">Axe</field>
-    <field name="item_name">Battle Axe</field>
-    <field name="item_name">Halberd</field>
-    <field name="item_name">Honey Mush Bread</field>
-    <field name="item_name">Mace</field>
-    <field name="item_name">Machete</field>
-    <field name="item_name">Medicine Bag</field>
-    <field name="item_name">Sabertooth Dagger</field>
-    <field name="item_name">Spear</field>
-    <field name="item_name">Survival Staff</field>
-    <field name="item_name">Throwing Axe</field>
-    <field name="item_name">Warhammer</field>
+    <field name="item_name"></field>
   </row>
   <row>
     <field name="merchantid">85002</field>
@@ -20947,9 +20356,7 @@
     <field name="merchantid">32000</field>
     <field name="id">91095</field>
     <field name="name">Zordak_Ragefire</field>
-    <field name="item_name">Oil of Fennin Ro</field>
-    <field name="item_name">Flame Arc</field>
-    <field name="item_name">Spell: Imbue Fire Opal</field>
+    <field name="item_name">Zordakalicus Ragefire</field>
   </row>
   <row>
     <field name="merchantid">182122</field>
@@ -21509,11 +20916,32 @@
     <field name="merchantid">106045</field>
     <field name="id">106014</field>
     <field name="name">Grazik_Plaguebringer</field>
+    <field name="item_name">Spell: Abolish Disease</field>
+    <field name="item_name">Spell: Affliction</field>
+    <field name="item_name">Spell: Counteract Disease</field>
+    <field name="item_name">Spell: Counteract Poison</field>
+    <field name="item_name">Spell: Endure Disease</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Envenomed Bolt</field>
+    <field name="item_name">Spell: Envenomed Breath</field>
+    <field name="item_name">Spell: Gale of Poison</field>
+    <field name="item_name">Spell: Infectious Cloud</field>
+    <field name="item_name">Spell: Insidious Fever</field>
+    <field name="item_name">Spell: Insidious Malady</field>
+    <field name="item_name">Spell: Plague</field>
+    <field name="item_name">Spell: Poison Storm</field>
+    <field name="item_name">Spell: Resist Disease</field>
+    <field name="item_name">Spell: Resist Poison</field>
+    <field name="item_name">Spell: Scourge</field>
+    <field name="item_name">Spell: Sicken</field>
+    <field name="item_name">Spell: Tainted Breath</field>
+    <field name="item_name">Spell: Venom of the Snake</field>
   </row>
   <row>
     <field name="merchantid">106044</field>
     <field name="id">106016</field>
     <field name="name">Lord_Vizaroth</field>
+    <field name="item_name">Spell: Banshee Aura</field>
   </row>
   <row>
     <field name="merchantid">106000</field>
@@ -21635,23 +21063,7 @@
     <field name="merchantid">106008</field>
     <field name="id">106036</field>
     <field name="name">Klok_Stitch</field>
-    <field name="item_name">Backpack Pattern</field>
-    <field name="item_name">Belt Pattern</field>
-    <field name="item_name">Cloak Pattern</field>
-    <field name="item_name">Fleeting Quiver Pattern</field>
-    <field name="item_name">Gorget Pattern</field>
-    <field name="item_name">How To Sew: Large Sizes</field>
-    <field name="item_name">How To Sew: Medium Sizes</field>
-    <field name="item_name">How To Sew: Small Sizes</field>
-    <field name="item_name">Large Sewing Kit</field>
-    <field name="item_name">Mask Pattern</field>
-    <field name="item_name">Needle Mold</field>
-    <field name="item_name">Quill</field>
-    <field name="item_name">Quiver Pattern</field>
-    <field name="item_name">Shoulderpad Pattern</field>
-    <field name="item_name">Thimble Mold</field>
-    <field name="item_name">Whip Pattern</field>
-    <field name="item_name">Wristband Pattern</field>
+    <field name="item_name">Cabilis</field>
   </row>
   <row>
     <field name="merchantid">106009</field>
@@ -21760,7 +21172,7 @@
     <field name="merchantid">106020</field>
     <field name="id">106048</field>
     <field name="name">Klok_Ephmir</field>
-    <field name="item_name">Flask of Bloodwater</field>
+    <field name="item_name">Dull Cutting Disk</field>
   </row>
   <row>
     <field name="merchantid">106021</field>
@@ -21871,98 +21283,175 @@
     <field name="merchantid">106047</field>
     <field name="id">106081</field>
     <field name="name">Vessel_Spirit_Companion</field>
-    <field name="item_name">Dufrenite</field>
-    <field name="item_name">Spell: Befriend Animal</field>
-    <field name="item_name">Spell: Charm Animals</field>
-    <field name="item_name">Spell: Companion Spirit</field>
-    <field name="item_name">Spell: Frenzied Spirit</field>
-    <field name="item_name">Spell: Guardian Spirit</field>
-    <field name="item_name">Spell: Vigilant Spirit</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
   </row>
   <row>
     <field name="merchantid">106046</field>
     <field name="id">106082</field>
     <field name="name">Squire_Gristle</field>
+    <field name="item_name">Spell: Convoke Shadow</field>
+    <field name="item_name">Spell: Dark Empathy</field>
+    <field name="item_name">Spell: Deadeye</field>
+    <field name="item_name">Spell: Endure Disease</field>
+    <field name="item_name">Spell: Engulfing Darkness</field>
+    <field name="item_name">Spell: Gather Shadows</field>
+    <field name="item_name">Spell: Heat Blood</field>
+    <field name="item_name">Spell: Lifedraw</field>
+    <field name="item_name">Spell: Restless Bones</field>
+    <field name="item_name">Spell: Spook the Dead</field>
+    <field name="item_name">Spell: Vampiric Embrace</field>
+    <field name="item_name">Spell: Ward Undead</field>
+    <field name="item_name">Spell: Wave of Enfeeblement</field>
   </row>
   <row>
     <field name="merchantid">106048</field>
     <field name="id">106083</field>
     <field name="name">Squire_Rygle</field>
+    <field name="item_name">Spell: Bone Walk</field>
+    <field name="item_name">Spell: Clinging Darkness</field>
+    <field name="item_name">Spell: Disease Cloud</field>
+    <field name="item_name">Spell: Endure Cold</field>
+    <field name="item_name">Spell: Fear</field>
+    <field name="item_name">Spell: Leering Corpse</field>
+    <field name="item_name">Spell: Lifespike</field>
+    <field name="item_name">Spell: Lifetap</field>
+    <field name="item_name">Spell: Locate Corpse</field>
+    <field name="item_name">Spell: Numb the Dead</field>
+    <field name="item_name">Spell: Sense the Dead</field>
+    <field name="item_name">Spell: Shadow Step</field>
+    <field name="item_name">Spell: Siphon Strength</field>
   </row>
   <row>
     <field name="merchantid">106030</field>
     <field name="id">106086</field>
     <field name="name">Vessel_Kirtokk</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Affliction</field>
+    <field name="item_name">Spell: Befriend Animal</field>
+    <field name="item_name">Spell: Counteract Disease</field>
+    <field name="item_name">Spell: Cure Blindness</field>
+    <field name="item_name">Spell: Endure Disease</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Envenomed Breath</field>
+    <field name="item_name">Spell: Flash of Light</field>
+    <field name="item_name">Spell: Infectious Cloud</field>
+    <field name="item_name">Spell: Insidious Fever</field>
+    <field name="item_name">Spell: Invisibility</field>
+    <field name="item_name">Spell: Poison Storm</field>
+    <field name="item_name">Spell: Resist Disease</field>
+    <field name="item_name">Spell: Scourge</field>
+    <field name="item_name">Spell: Sense Animals</field>
+    <field name="item_name">Spell: Serpent Sight</field>
+    <field name="item_name">Spell: Spirit Sight</field>
+    <field name="item_name">Spell: Tainted Breath</field>
+    <field name="item_name">Spell: Ultravision</field>
+    <field name="item_name">Spell: Vision</field>
   </row>
   <row>
     <field name="merchantid">106031</field>
     <field name="id">106087</field>
     <field name="name">Vessel_Drekk</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
   </row>
   <row>
     <field name="merchantid">106032</field>
     <field name="id">106088</field>
     <field name="name">Vessel_Migron</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Agility</field>
+    <field name="item_name">Spell: Alacrity</field>
+    <field name="item_name">Spell: Blizzard Blast</field>
+    <field name="item_name">Spell: Chloroplast</field>
+    <field name="item_name">Spell: Deftness</field>
+    <field name="item_name">Spell: Extinguish Fatigue</field>
+    <field name="item_name">Spell: Furious Strength</field>
+    <field name="item_name">Spell: Glamour</field>
+    <field name="item_name">Spell: Guardian</field>
+    <field name="item_name">Spell: Incapacitate</field>
+    <field name="item_name">Spell: Nullify Magic</field>
+    <field name="item_name">Spell: Resist Magic</field>
+    <field name="item_name">Spell: Stamina</field>
+    <field name="item_name">Spell: Togor's Insects</field>
   </row>
   <row>
     <field name="merchantid">106033</field>
     <field name="id">106089</field>
     <field name="name">Vessel_Mortyr</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Alluring Aura</field>
+    <field name="item_name">Spell: Fury</field>
+    <field name="item_name">Spell: Greater Healing</field>
+    <field name="item_name">Spell: Health</field>
+    <field name="item_name">Spell: Listless Power</field>
+    <field name="item_name">Spell: Malaisement</field>
+    <field name="item_name">Spell: Nimble</field>
+    <field name="item_name">Spell: Quickness</field>
+    <field name="item_name">Spell: Raging Strength</field>
+    <field name="item_name">Spell: Resist Fire</field>
+    <field name="item_name">Spell: Rising Dexterity</field>
+    <field name="item_name">Spell: Shifting Shield</field>
+    <field name="item_name">Spell: Tagar's Insects</field>
+    <field name="item_name">Spell: Winter's Roar</field>
   </row>
   <row>
     <field name="merchantid">106034</field>
     <field name="id">106090</field>
     <field name="name">Vessel_Grymm</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Cancel Magic</field>
+    <field name="item_name">Spell: Cannibalize</field>
+    <field name="item_name">Spell: Endure Magic</field>
+    <field name="item_name">Spell: Frenzy</field>
+    <field name="item_name">Spell: Frost Strike</field>
+    <field name="item_name">Spell: Healing</field>
+    <field name="item_name">Spell: Imbue Amber</field>
+    <field name="item_name">Spell: Invigor</field>
+    <field name="item_name">Spell: Malaise</field>
+    <field name="item_name">Spell: Protect</field>
+    <field name="item_name">Spell: Regeneration</field>
+    <field name="item_name">Spell: Resist Cold</field>
+    <field name="item_name">Spell: Spirit Strength</field>
+    <field name="item_name">Spell: Spirit of Cat</field>
+    <field name="item_name">Spell: Spirit of Cheetah</field>
+    <field name="item_name">Spell: Spirit of Monkey</field>
+    <field name="item_name">Spell: Spirit of Ox</field>
   </row>
   <row>
     <field name="merchantid">106035</field>
     <field name="id">106091</field>
     <field name="name">Vessel_Grott</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Bind Affinity</field>
+    <field name="item_name">Spell: Burst of Strength</field>
+    <field name="item_name">Spell: Disempower</field>
+    <field name="item_name">Spell: Enduring Breath</field>
+    <field name="item_name">Spell: Levitate</field>
+    <field name="item_name">Spell: Light Healing</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Shrink</field>
+    <field name="item_name">Spell: Spirit Strike</field>
+    <field name="item_name">Spell: Spirit of Bear</field>
+    <field name="item_name">Spell: Spirit of Snake</field>
+    <field name="item_name">Spell: Spirit of Wolf</field>
+    <field name="item_name">Spell: Summon Food</field>
+    <field name="item_name">Spell: Turtle Skin</field>
+    <field name="item_name">Spell: Walking Sleep</field>
   </row>
   <row>
     <field name="merchantid">106036</field>
     <field name="id">106092</field>
     <field name="name">Vessel_Kabda</field>
-    <field name="item_name">Cabilis Residents</field>
-    <field name="item_name">Crusaders of Greenmist</field>
-    <field name="item_name">Legion of Cabilis</field>
-    <field name="item_name">Scaled Mystics</field>
-    <field name="item_name">Swift Tails</field>
+    <field name="item_name">Spell: Burst of Flame</field>
+    <field name="item_name">Spell: Cure Disease</field>
+    <field name="item_name">Spell: Cure Poison</field>
+    <field name="item_name">Spell: Dexterous Aura</field>
+    <field name="item_name">Spell: Drowsy</field>
+    <field name="item_name">Spell: Endure Cold</field>
+    <field name="item_name">Spell: Endure Fire</field>
+    <field name="item_name">Spell: Feet like Cat</field>
+    <field name="item_name">Spell: Fleeting Fury</field>
+    <field name="item_name">Spell: Frost Rift</field>
+    <field name="item_name">Spell: Gate</field>
+    <field name="item_name">Spell: Inner Fire</field>
+    <field name="item_name">Spell: Minor Healing</field>
+    <field name="item_name">Spell: Scale Skin</field>
+    <field name="item_name">Spell: Spirit Pouch</field>
+    <field name="item_name">Spell: Strengthen</field>
+    <field name="item_name">Spell: Summon Drink</field>
+    <field name="item_name">Spell: True North</field>
   </row>
   <row>
     <field name="merchantid">106037</field>
@@ -22086,6 +21575,8 @@
     <field name="merchantid">182117</field>
     <field name="id">110066</field>
     <field name="name">Sojan_the_Sleepless</field>
+    <field name="item_name">Canteen of Slush Water</field>
+    <field name="item_name">Frozen Sea Biscuits</field>
   </row>
   <row>
     <field name="merchantid">182115</field>
@@ -22105,9 +21596,6 @@
     <field name="merchantid">34</field>
     <field name="id">113065</field>
     <field name="name">Wevek_Redforge</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -22120,48 +21608,36 @@
     <field name="merchantid">182120</field>
     <field name="id">113150</field>
     <field name="name">Kellek_Felhammer</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">182119</field>
     <field name="id">113164</field>
     <field name="name">Weyrevar_Bluehammer</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">34</field>
     <field name="id">113166</field>
     <field name="name">Kevelak_Whitefang</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">113001</field>
     <field name="id">113167</field>
     <field name="name">Svekk_Fangbinder</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">34</field>
     <field name="id">113168</field>
     <field name="name">Bjorak_Stonefist</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
+    <field name="item_name">Arena Ticket</field>
+    <field name="item_name">Blood Flowers</field>
+    <field name="item_name">Coldain Pickles</field>
+    <field name="item_name">Crunchy Coldain Head</field>
+    <field name="item_name">Icy Mushrooms</field>
   </row>
   <row>
     <field name="merchantid">182118</field>
     <field name="id">113172</field>
     <field name="name">Bendad_the_Trader</field>
-    <field name="item_name">King Tormax</field>
-    <field name="item_name">Kromrif</field>
-    <field name="item_name">Kromzek</field>
   </row>
   <row>
     <field name="merchantid">182121</field>
@@ -22178,64 +21654,20 @@
     <field name="merchantid">182129</field>
     <field name="id">114165</field>
     <field name="name">Zildainez</field>
-    <field name="item_name">Spell: Adorning Grace</field>
-    <field name="item_name">Spell: Berserker Spirit</field>
-    <field name="item_name">Spell: Brilliance</field>
-    <field name="item_name">Spell: Dazzle</field>
-    <field name="item_name">Spell: Discordant Mind</field>
-    <field name="item_name">Spell: Gasping Embrace</field>
-    <field name="item_name">Spell: Group Resist Magic</field>
-    <field name="item_name">Spell: Incapacitate</field>
-    <field name="item_name">Spell: Rune IV</field>
-    <field name="item_name">Spell: Shadow</field>
-    <field name="item_name">Spell: Swift like the Wind</field>
-    <field name="item_name">Spell: Weakness</field>
+    <field name="item_name">Enchanter</field>
   </row>
   <row>
     <field name="merchantid">182133</field>
     <field name="id">114166</field>
     <field name="name">Salginor</field>
-    <field name="item_name">Spell: Anarchy</field>
-    <field name="item_name">Spell: Augmentation</field>
-    <field name="item_name">Spell: Cajoling Whispers</field>
-    <field name="item_name">Spell: Cast Sight</field>
-    <field name="item_name">Spell: Celerity</field>
-    <field name="item_name">Spell: Clarity</field>
-    <field name="item_name">Spell: Curse of the Simple Mind</field>
-    <field name="item_name">Spell: Entrance</field>
-    <field name="item_name">Spell: Insight</field>
-    <field name="item_name">Spell: Invoke Fear</field>
-    <field name="item_name">Spell: Listless Power</field>
-    <field name="item_name">Spell: Obscure</field>
-    <field name="item_name">Spell: Pacify</field>
-    <field name="item_name">Spell: Rampage</field>
-    <field name="item_name">Spell: Rune III</field>
-    <field name="item_name">Spell: Shade</field>
-    <field name="item_name">Spell: Suffocate</field>
+    <field name="item_name">Enchanter</field>
   </row>
   <row>
     <field name="merchantid">182128</field>
     <field name="id">114167</field>
     <field name="name">Hytloc</field>
-    <field name="item_name">Spell: Adorning Grace</field>
-    <field name="item_name">Spell: Barrier of Combustion</field>
-    <field name="item_name">Spell: Blaze</field>
-    <field name="item_name">Spell: Burnout II</field>
-    <field name="item_name">Spell: Cinder Bolt</field>
-    <field name="item_name">Spell: Dismiss Summoned</field>
-    <field name="item_name">Spell: Expel Summoned</field>
-    <field name="item_name">Spell: Flame Arc</field>
-    <field name="item_name">Spell: Greater Summoning: Air</field>
-    <field name="item_name">Spell: Greater Summoning: Fire</field>
-    <field name="item_name">Spell: Inferno Shield</field>
-    <field name="item_name">Spell: Lesser Conjuration: Air</field>
-    <field name="item_name">Spell: Lesser Conjuration: Fire</field>
-    <field name="item_name">Spell: Minor Conjuration: Earth</field>
-    <field name="item_name">Spell: Minor Conjuration: Water</field>
-    <field name="item_name">Spell: Phantom Chain</field>
-    <field name="item_name">Spell: Rain of Lava</field>
-    <field name="item_name">Spell: Rain of Spikes</field>
-    <field name="item_name">Spell: Shadow</field>
+    <field name="item_name">Magician</field>
+    <field name="item_name">Enchanter</field>
   </row>
   <row>
     <field name="merchantid">182131</field>
@@ -22266,23 +21698,8 @@
     <field name="merchantid">34</field>
     <field name="id">114169</field>
     <field name="name">Guardian_Seacly</field>
-    <field name="item_name">Spell: Banish Summoned</field>
-    <field name="item_name">Spell: Berserker Spirit</field>
-    <field name="item_name">Spell: Brilliance</field>
-    <field name="item_name">Spell: Burnout III</field>
-    <field name="item_name">Spell: Conjuration: Fire</field>
-    <field name="item_name">Spell: Dazzle</field>
-    <field name="item_name">Spell: Discordant Mind</field>
-    <field name="item_name">Spell: Elemental Armor</field>
-    <field name="item_name">Spell: Gasping Embrace</field>
-    <field name="item_name">Spell: Greater Conjuration: Earth</field>
-    <field name="item_name">Spell: Group Resist Magic</field>
-    <field name="item_name">Spell: Incapacitate</field>
-    <field name="item_name">Spell: Lava Bolt</field>
-    <field name="item_name">Spell: Malaisement</field>
-    <field name="item_name">Spell: Phantom Plate</field>
-    <field name="item_name">Spell: Rain of Swords</field>
-    <field name="item_name">Spell: Rune IV</field>
+    <field name="item_name">Magician</field>
+    <field name="item_name">Enchanter</field>
   </row>
   <row>
     <field name="merchantid">182127</field>
@@ -22293,8 +21710,6 @@
     <field name="merchantid">182134</field>
     <field name="id">114177</field>
     <field name="name">Purveyor_Chop</field>
-    <field name="item_name">Claws of Veeshan</field>
-    <field name="item_name">Yelinak</field>
   </row>
   <row>
     <field name="merchantid">182136</field>
@@ -22419,8 +21834,6 @@
     <field name="merchantid">182130</field>
     <field name="id">114467</field>
     <field name="name">Grudash_the_Baker</field>
-    <field name="item_name">Claws of Veeshan</field>
-    <field name="item_name">Yelinak</field>
   </row>
   <row>
     <field name="merchantid">34</field>
@@ -22436,8 +21849,6 @@
     <field name="merchantid">182137</field>
     <field name="id">114496</field>
     <field name="name">Ruru_the_Cook</field>
-    <field name="item_name">Claws of Veeshan</field>
-    <field name="item_name">Yelinak</field>
   </row>
   <row>
     <field name="merchantid">182144</field>
@@ -22764,8 +22175,6 @@
     <field name="merchantid">115017</field>
     <field name="id">115145</field>
     <field name="name">Caitlin_Underbelly</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
   </row>
   <row>
     <field name="merchantid">115018</field>
@@ -22794,15 +22203,11 @@
     <field name="merchantid">115021</field>
     <field name="id">115149</field>
     <field name="name">Kyla_Frostbeard</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
   </row>
   <row>
     <field name="merchantid">115022</field>
     <field name="id">115150</field>
     <field name="name">Cobi_Frostbeard</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
   </row>
   <row>
     <field name="merchantid">115023</field>
@@ -22833,15 +22238,31 @@
     <field name="merchantid">115024</field>
     <field name="id">115152</field>
     <field name="name">Lorekeeper_Brita</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Center</field>
+    <field name="item_name">Spell: Endure Fire</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Fear</field>
+    <field name="item_name">Spell: Hammer of Wrath</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Sense the Dead</field>
+    <field name="item_name">Spell: Soothe</field>
+    <field name="item_name">Spell: Summon Food</field>
+    <field name="item_name">Spell: Word of Pain</field>
   </row>
   <row>
     <field name="merchantid">115025</field>
     <field name="id">115153</field>
     <field name="name">Lorekeeper_Zorik</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Cure Blindness</field>
+    <field name="item_name">Spell: Cure Disease</field>
+    <field name="item_name">Spell: Furor</field>
+    <field name="item_name">Spell: Gate</field>
+    <field name="item_name">Spell: Holy Armor</field>
+    <field name="item_name">Spell: Light Healing</field>
+    <field name="item_name">Spell: Reckless Strength</field>
+    <field name="item_name">Spell: Stun</field>
+    <field name="item_name">Spell: Summon Drink</field>
+    <field name="item_name">Spell: Ward Undead</field>
   </row>
   <row>
     <field name="merchantid">115026</field>
@@ -22862,8 +22283,25 @@
     <field name="merchantid">115027</field>
     <field name="id">115155</field>
     <field name="name">Keegan</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Center</field>
+    <field name="item_name">Spell: Courage</field>
+    <field name="item_name">Spell: Cure Disease</field>
+    <field name="item_name">Spell: Cure Poison</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Flash of Light</field>
+    <field name="item_name">Spell: Hammer of Wrath</field>
+    <field name="item_name">Spell: Holy Armor</field>
+    <field name="item_name">Spell: Invigor</field>
+    <field name="item_name">Spell: Light Healing</field>
+    <field name="item_name">Spell: Lull</field>
+    <field name="item_name">Spell: Minor Healing</field>
+    <field name="item_name">Spell: Reckless Strength</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Sense the Dead</field>
+    <field name="item_name">Spell: Spook the Dead</field>
+    <field name="item_name">Spell: True North</field>
+    <field name="item_name">Spell: Ward Undead</field>
+    <field name="item_name">Spell: Yaulp</field>
   </row>
   <row>
     <field name="merchantid">115028</field>
@@ -23262,15 +22700,11 @@
     <field name="merchantid">115020</field>
     <field name="id">115216</field>
     <field name="name">Mauren_Frostbeard</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
   </row>
   <row>
     <field name="merchantid">182140</field>
     <field name="id">115217</field>
     <field name="name">Kyla_Frostbeard</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
   </row>
   <row>
     <field name="merchantid">182142</field>
@@ -23301,15 +22735,31 @@
     <field name="merchantid">182147</field>
     <field name="id">115220</field>
     <field name="name">Lorekeeper_Brita</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Center</field>
+    <field name="item_name">Spell: Endure Fire</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Fear</field>
+    <field name="item_name">Spell: Hammer of Wrath</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Sense the Dead</field>
+    <field name="item_name">Spell: Soothe</field>
+    <field name="item_name">Spell: Summon Food</field>
+    <field name="item_name">Spell: Word of Pain</field>
   </row>
   <row>
     <field name="merchantid">182139</field>
     <field name="id">115221</field>
     <field name="name">Lorekeeper_Zorik</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Cure Blindness</field>
+    <field name="item_name">Spell: Cure Disease</field>
+    <field name="item_name">Spell: Furor</field>
+    <field name="item_name">Spell: Gate</field>
+    <field name="item_name">Spell: Holy Armor</field>
+    <field name="item_name">Spell: Light Healing</field>
+    <field name="item_name">Spell: Reckless Strength</field>
+    <field name="item_name">Spell: Stun</field>
+    <field name="item_name">Spell: Summon Drink</field>
+    <field name="item_name">Spell: Ward Undead</field>
   </row>
   <row>
     <field name="merchantid">182146</field>
@@ -23330,8 +22780,25 @@
     <field name="merchantid">182138</field>
     <field name="id">115223</field>
     <field name="name">Keegan</field>
-    <field name="item_name">Coldain</field>
-    <field name="item_name">Dain Frostreaver IV</field>
+    <field name="item_name">Spell: Center</field>
+    <field name="item_name">Spell: Courage</field>
+    <field name="item_name">Spell: Cure Disease</field>
+    <field name="item_name">Spell: Cure Poison</field>
+    <field name="item_name">Spell: Endure Poison</field>
+    <field name="item_name">Spell: Flash of Light</field>
+    <field name="item_name">Spell: Hammer of Wrath</field>
+    <field name="item_name">Spell: Holy Armor</field>
+    <field name="item_name">Spell: Invigor</field>
+    <field name="item_name">Spell: Light Healing</field>
+    <field name="item_name">Spell: Lull</field>
+    <field name="item_name">Spell: Minor Healing</field>
+    <field name="item_name">Spell: Reckless Strength</field>
+    <field name="item_name">Spell: Root</field>
+    <field name="item_name">Spell: Sense the Dead</field>
+    <field name="item_name">Spell: Spook the Dead</field>
+    <field name="item_name">Spell: True North</field>
+    <field name="item_name">Spell: Ward Undead</field>
+    <field name="item_name">Spell: Yaulp</field>
   </row>
   <row>
     <field name="merchantid">117000</field>
@@ -23381,13 +22848,19 @@
     <field name="merchantid">182151</field>
     <field name="id">119102</field>
     <field name="name">Phillip_Aghllsews</field>
-    <field name="item_name">Tunarean Court</field>
+    <field name="item_name">Spell: Circle of Cobalt Scar</field>
+    <field name="item_name">Spell: Circle of Great Divide</field>
+    <field name="item_name">Spell: Circle of Wakening Lands</field>
+    <field name="item_name">Spell: Ice</field>
+    <field name="item_name">Spell: Ring of Great Divide</field>
+    <field name="item_name">Spell: Ring of Iceclad</field>
+    <field name="item_name">Spell: Circle of Iceclad</field>
   </row>
   <row>
     <field name="merchantid">182152</field>
     <field name="id">119103</field>
     <field name="name">Weinna_Oakchild</field>
-    <field name="item_name">Tunarean Court</field>
+    <field name="item_name">Spell: Drifting Death</field>
   </row>
   <row>
     <field name="merchantid">182157</field>
