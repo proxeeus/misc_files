@@ -80,3 +80,10 @@ INSERT INTO `bot_spells_entries` (`id`, `npc_spells_id`, `spellid`, `type`, `min
 INSERT INTO `bot_spells_entries` (`id`, `npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (1862, 3011, 3303, 256, 65, 255, -1, -1, 3, 0);
 INSERT INTO `bot_spells_entries` (`id`, `npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (1841, 3011, 3314, 32, 65, 255, -1, -1, 0, 0);
 INSERT INTO `bot_spells_entries` (`id`, `npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (1852, 3011, 3032, 64, 255, 255, -1, -1, 2, 0);
+-- Add Lich line of spells as buffs
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 641, 8, 8, 19, -1, -1, 2, 0);
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 642, 8, 20, 33, -1, -1, 2, 0);
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 643, 8, 34, 48, -1, -1, 2, 0);
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 644, 8, 49, 55, -1, -1, 2, 0);
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 1611, 8, 56, 59, -1, -1, 2, 0);
+INSERT INTO `bot_spells_entries` (`npc_spells_id`, `spellid`, `type`, `minlevel`, `maxlevel`, `manacost`, `recast_delay`, `priority`, `resist_adjust`) VALUES (3011, 1416, 8, 60, 60, -1, -1, 2, 0);
