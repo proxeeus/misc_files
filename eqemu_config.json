@@ -1,0 +1,66 @@
+{
+     "server" : {
+          "chatserver" : {
+               "host" : "",
+               "port" : "7500"
+          },
+          "database" : {
+               "db" : "xxx",
+               "host" : "127.0.0.1",
+               "password" : "xxx",
+               "port" : "3306",
+               "username" : "xxx"
+          },
+          "files" : {
+               "eqtime" : "eqtime.cfg"
+          },
+          "mailserver" : {
+               "host" : "",
+               "port" : "7500"
+          },
+          "qsdatabase" : {
+               "db" : "proxeeus_db",
+               "host" : "127.0.0.1",
+               "password" : "xxx",
+               "port" : "3306",
+               "username" : "xxx"
+          },
+          "world" : {
+               "address" : "91.69.108.155",
+               "http" : {
+                    "enabled" : "true",
+                    "mimefile" : "mime.types",
+                    "port" : "9080"
+               },
+               "key" : "somelongrandomstring12345asdfffff",
+               "localaddress" : "192.168.1.85",
+               "loginserver1" : {
+                    "account" : "",
+                    "host" : "login.eqemulator.net",
+                    "legacy" : "1",
+                    "password" : "",
+                    "port" : "5998"
+               },
+			   "loginserver2" : {
+					"account" : "*",
+					"host" : "192.168.1.85",
+					"password" : "*",
+					"port" : "5998"
+			   },
+               "longname" : "xxx",
+               "shortname" : "xxx",
+               "tcp" : {
+                    "ip" : "127.0.0.1",
+                    "port" : "9000",
+                    "telnet" : "enable"
+               }
+          },
+          "zones" : {
+               "defaultstatus" : "0",
+               "ports" : {
+                    "high" : "7400",
+                    "low" : "7000"
+               }
+          }
+     }
+}
